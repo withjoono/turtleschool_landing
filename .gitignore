@@ -1,0 +1,51 @@
+# WordPress Configuration (contains sensitive database credentials)
+# Keep wp-config-sample.php but ignore actual wp-config.php
+www/wp-config.php
+
+# Uploads directory (large media files)
+www/wp-content/uploads/
+
+# Database dumps
+*.sql
+*.dump
+ingapt-20190505.dump
+
+# Cache and temporary files
+www/wp-content/cache/
+www/wp-content/upgrade/
+www/wp-content/upgrade-temp-backup/
+www/wp-content/backup-db/
+
+# Logs
+*.log
+
+# Database editor (phpMyAdmin) - already in dbeditor/
+www/wp-content/dbeditor/
+
+# SSL certificates and keys
+ssl/
+*.pem
+*.key
+*.crt
+
+# Server configuration files
+.bash_profile
+.ftpaccess
+.ftpaccess2
+.funcall_excute
+.htaccess
+.lastlogin
+.logincount
+.reject_excute
+.shelldenied
+
+# Plugin-specific data
+www/wp-content/nfwlog/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/

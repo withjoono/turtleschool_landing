@@ -1,0 +1,1698 @@
+# Translation of Plugins - Starter Templates – AI-Powered Templates for Elementor &amp; Gutenberg - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Starter Templates – AI-Powered Templates for Elementor &amp; Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-11 04:22:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Starter Templates – AI-Powered Templates for Elementor &amp; Gutenberg - Stable (latest release)\n"
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:157
+msgid "Account is already created."
+msgstr "계정이 이미 생성되었습니다."
+
+#: inc/lib/zipwp-images/classes/zipwp-images-script.php:115
+msgid "Search Images"
+msgstr "이미지 검색"
+
+#: inc/lib/gutenberg-templates/inc/api/favorite.php:181
+msgid "Action failed"
+msgstr "작업 실패"
+
+#: inc/lib/gutenberg-templates/inc/api/favorite.php:181
+msgid "Action Completed"
+msgstr "작업 완료"
+
+#: inc/classes/class-astra-sites-nps-notice.php:90
+msgid "We value your input. How can we improve your experience?"
+msgstr "회원님의 의견을 소중하게 생각합니다. 사용자 경험을 개선하려면 어떻게 해야 하나요?"
+
+#. translators: %1$s: team name, %2$s: plan name
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:445
+msgid "Your current active organization is %1$s, which is on the %2$s plan. You have reached the maximum number of sites allowed to be created on %2$s plan."
+msgstr "현재 활성 조직은 %2$s 플랜을 사용하는 %1$s입니다. %2$s 플랜에서 만들 수 있는 최대 사이트 수에 도달했습니다."
+
+#: inc/classes/class-astra-sites-nps-notice.php:85
+msgid "Could you please do us a favor and give us a 5-star rating on WordPress? It would help others choose Starter Templates with confidence. Thank you!"
+msgstr "워드프레스에 별점 5점을 부여해 주시겠어요? 다른 사람들이 안심하고 스타터 템플릿을 선택하는 데 도움이 될 것입니다. 감사합니다!"
+
+#: inc/classes/class-astra-sites-nps-notice.php:84
+msgid "Thanks a lot for your feedback! 😍"
+msgstr "피드백을 보내주셔서 감사합니다! 😍"
+
+#: inc/classes/class-astra-sites-nps-notice.php:89
+msgid "Thank you for your feedback"
+msgstr "의견에 감사드립니다"
+
+#: inc/classes/class-astra-sites-nps-notice.php:81
+msgid "How likely are you to recommend #pluginname to your friends or colleagues?"
+msgstr "친구나 동료에게 #플러그인네임을 추천할 가능성이 얼마나 되나요?"
+
+#: inc/lib/gutenberg-templates/inc/classes/ast-block-templates-notices.php:57
+msgid "Resolve file permission issue"
+msgstr "파일 권한 문제 해결"
+
+#: inc/lib/gutenberg-templates/inc/classes/ast-block-templates-notices.php:57
+msgid "Doc: "
+msgstr "문서: "
+
+#: inc/lib/gutenberg-templates/inc/classes/ast-block-templates-notices.php:53
+msgid "File Permissions Needed - Importing patterns, pages, and templates from Design Library requires proper file permissions. For guidance on resolving this issue and ensuring smooth importing processes, please refer to the accompanying documentation."
+msgstr "파일 권한 필요 - 디자인 라이브러리에서 패턴, 페이지 및 템플릿을 가져오려면 적절한 파일 권한이 필요합니다. 이 문제를 해결하고 원활한 가져오기 프로세스를 보장하는 방법에 대한 지침은 첨부된 문서를 참조하세요."
+
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:921
+#: inc/lib/ai-builder/inc/traits/helper.php:566
+#: inc/lib/ai-builder/inc/traits/helper.php:602
+#: inc/lib/ai-builder/inc/traits/helper.php:645
+#: inc/lib/ai-builder/inc/traits/helper.php:683
+#: inc/lib/ai-builder/inc/traits/helper.php:718
+#: inc/lib/ai-builder/inc/traits/helper.php:752
+#: inc/lib/ai-builder/inc/traits/helper.php:785
+#: inc/lib/ai-builder/inc/traits/helper.php:828
+msgid "Required class not found."
+msgstr "필수 클래스를 찾을 수 없습니다."
+
+#: inc/lib/ai-builder/inc/ajax/importer.php:438
+#: inc/lib/ai-builder/inc/ajax/importer.php:476
+#: inc/lib/ai-builder/inc/ajax/plugin.php:129
+msgid "Required function not found"
+msgstr "필수 기능을 찾을 수 없습니다"
+
+#: inc/lib/ai-builder/inc/ajax/importer.php:365
+msgid "There was an error importing the Spectra settings."
+msgstr "Spectra 설정을 가져오는 중 오류가 발생했습니다."
+
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:270
+msgid "Need to send photo ID"
+msgstr "사진이 부착된 신분증을 보내야 합니다."
+
+#. Translators: %s Plugin Name.
+#: inc/classes/class-astra-sites.php:255
+msgid "%s: XMLReader extension is missing! To import templates, please get in touch with your hosting provider to enable this extension."
+msgstr "%s: XMLReader 확장이 없습니다! 템플릿을 가져오려면 호스팅 제공업체에 문의하여 이 확장을 사용하도록 설정하세요."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:364
+msgid "Widgets imported successfully."
+msgstr "위젯을 성공적으로 가져왔습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:322
+msgid "Options imported successfully."
+msgstr "옵션을 성공적으로 가져왔습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:198
+msgid "Customizer data imported successfully."
+msgstr "사용자 지정 데이터를 성공적으로 가져왔습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:180
+msgid "Customizer data is empty."
+msgstr "커스터마이저 데이터가 비어 있습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:124
+msgid "SureCart\\Models\\ProvisionalAccount::create function is not callable."
+msgstr "SureCart\\Models\\ProvisionalAccount::create 함수를 호출할 수 없습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:145
+msgid "Id is empty."
+msgstr "ID가 비어 있습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:106
+msgid "Spectra settings imported successfully."
+msgstr "스펙트럼 설정을 성공적으로 가져왔습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:98
+msgid "Spectra settings are empty."
+msgstr "스펙트럼 설정이 비어 있습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:74
+msgid "Import process start flof set successfully."
+msgstr "가져오기 프로세스 시작 플로프 세트가 성공적으로 설정되었습니다."
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:61
+msgid "uuid is empty."
+msgstr "uuid가 비어 있습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-replace-images.php:498
+msgid "Pages are replaced"
+msgstr "페이지가 교체됨"
+
+#: inc/lib/starter-templates-importer/importer/batch/st-replace-images.php:467
+msgid "Pages are empty"
+msgstr "페이지가 비어 있습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-replace-images.php:158
+msgid "Posts are replaced"
+msgstr "글이 교체되었습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-replace-images.php:145
+msgid "Posts are empty. Nothing to process."
+msgstr "글이 비어 있습니다. 처리할 항목이 없습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-replace-images.php:126
+msgid "Image Replacement completed."
+msgstr "이미지 교체가 완료되었습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-replace-images.php:97
+msgid "Astra functions not available"
+msgstr "아스트라 기능을 사용할 수 없습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-batch-processing-misc.php:85
+msgid "Required flags are not set."
+msgstr "필수 플래그가 설정되지 않았습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-batch-processing-misc.php:67
+msgid "Template Type is not a AI."
+msgstr "템플릿 유형이 AI가 아닙니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-batch-processing-gutenberg.php:118
+msgid "Gutenberg batch completed."
+msgstr "구텐베르크 배치가 완료되었습니다."
+
+#: inc/lib/starter-templates-importer/importer/batch/st-batch-processing-elementor.php:76
+#: inc/lib/starter-templates-importer/importer/batch/st-batch-processing-gutenberg.php:108
+msgid "Post ids are empty"
+msgstr "글 ID가 비어 있습니다."
+
+#: inc/lib/ai-builder/inc/ajax/importer.php:527
+#: inc/lib/ai-builder/inc/classes/importer/class-ai-builder-fse-importer.php:53
+msgid "Received empty parameters."
+msgstr "빈 매개 변수를 받았습니다."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:618
+msgid "Site options Imported!"
+msgstr "사이트 옵션을 가져왔습니다!"
+
+#: inc/lib/ai-builder/inc/ajax/importer.php:341
+#: inc/lib/ai-builder/inc/traits/helper.php:249
+#: inc/lib/starter-templates-importer/importer/wxr-importer/st-wxr-importer.php:144
+msgid "Permission Denied!"
+msgstr "권한이 거부되었습니다!"
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:242
+#: inc/lib/ai-builder/inc/ajax/ajax-errors.php:41
+msgid "Nonce validation failed"
+msgstr "논스 유효성 검사에 실패했습니다."
+
+#: admin/bsf-analytics/modules/deactivation-survey/classes/class-deactivation-survey-feedback.php:229
+#: inc/lib/ai-builder/inc/ajax/ajax-errors.php:40
+msgid "Sorry, you are not allowed to do this operation."
+msgstr "이 작업은 허용되지 않습니다."
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:218
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:219
+msgid "AI Builder"
+msgstr "AI 빌더"
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:460
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:143
+#: inc/lib/onboarding/assets/src/components/limit-exceeded-modal/limit-exceeded-modal.js:149
+msgid "Unlock Full Power"
+msgstr "모든 기능 잠금 해제"
+
+#. translators: %1$s: team name
+#. translators: %s: team name
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:454
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:143
+#: inc/lib/onboarding/assets/src/components/limit-exceeded-modal/limit-exceeded-modal.js:88
+msgid "Please upgrade the plan for %s in order to create more sites."
+msgstr "더 많은 사이트를 만들려면 %s 요금제를 업그레이드하세요."
+
+#: inc/classes/class-astra-sites.php:2740
+msgid "I want to build this website from scratch"
+msgstr "이 웹사이트를 처음부터 만들고 싶습니다."
+
+#: inc/classes/class-astra-sites.php:2739
+msgid "Let’s Get Started"
+msgstr "시작하기"
+
+#: inc/classes/class-astra-sites.php:2737
+msgid "Say goodbye to the days of spending weeks designing and building your website.<br/> You can now create professional-grade websites in minutes."
+msgstr "이제 웹사이트를 디자인하고 구축하는 데 몇 주가 걸리던 시대는 끝났습니다.<br/> 이제 몇 분 만에 전문가 수준의 웹사이트를 만들 수 있습니다."
+
+#: inc/classes/class-astra-sites.php:2736
+msgid "Build Your Dream Site in Minutes With AI"
+msgstr "AI로 몇 분 안에 꿈의 사이트 구축"
+
+#: inc/classes/class-astra-sites-page.php:239
+msgid "Notice Dismissed!"
+msgstr "통지가 기각되었습니다!"
+
+#: inc/lib/ai-builder/inc/ajax/plugin.php:384
+msgid "Failed to set the site language."
+msgstr "사이트 언어를 설정하지 못했습니다."
+
+#: inc/lib/zip-ai/classes/helper.php:295
+msgid "The ZipWP API server encountered an error."
+msgstr "ZipWP API 서버에 오류가 발생했습니다."
+
+#: inc/lib/zip-ai/classes/helper.php:285
+msgid "The ZipWP API server is not responding."
+msgstr "ZipWP API 서버가 응답하지 않습니다."
+
+#: inc/lib/zip-ai/classes/helper.php:261
+msgid "The ZipWP Token is not set."
+msgstr "ZipWP 토큰이 설정되지 않았습니다."
+
+#: inc/lib/zip-ai/classes/helper.php:251
+msgid "The ZipWP Endpoint was not declared"
+msgstr "ZipWP 엔드포인트가 선언되지 않았습니다."
+
+#: inc/lib/onboarding/class-onboarding-loader.php:349
+msgid "Disable Beaver Builder Page Builder Templates in Starter Templates"
+msgstr "스타터 템플릿에서 비버 빌더 페이지 빌더 템플릿 비활성화하기"
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:91
+msgid "Can't import Spectra Settings. Spectra Plugin is not activated."
+msgstr "스펙트럼 설정을 가져올 수 없습니다. 스펙트럼 플러그인이 활성화되지 않았습니다."
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:463
+#: inc/lib/ai-builder/inc/assets/build/main.js:195
+#: inc/lib/ai-builder/inc/assets/src/components/error-model.js:97
+msgid "Contact Support"
+msgstr "지원팀에 문의"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:2193
+msgid "The Flexbox Container widget is disabled on your website. With this disabled, the import process will be affected. Kindly enable it to continue importing the Starter Template."
+msgstr "웹사이트에서 Flexbox 컨테이너 위젯이 비활성화되어 있습니다. 이 위젯이 비활성화되면 가져오기 프로세스가 영향을 받습니다. 스타터 템플릿을 계속 가져오려면 활성화하세요."
+
+#: inc/classes/class-astra-sites.php:2191
+msgid "Enable Flexbox Container from Elementor"
+msgstr "엘리멘터에서 플렉스박스 컨테이너 사용"
+
+#: inc/includes/templates.php:60
+msgid "Activate it!"
+msgstr "활성화하세요!"
+
+#: inc/includes/templates.php:57
+msgid "We've observed that the 'Flexbox Container' setting in your Elementor configuration is currently inactive. To ensure a seamless import, please active this option."
+msgstr "엘리멘터 구성의 'Flexbox 컨테이너' 설정이 현재 비활성화되어 있는 것을 확인했습니다. 원활한 가져오기를 위해 이 옵션을 활성화하세요."
+
+#: inc/lib/gutenberg-templates/inc/api/settings.php:182
+msgid "Sorry, settings are not saved."
+msgstr "설정이 저장되지 않았습니다."
+
+#. Translators: %s is URL.
+#: inc/lib/ai-builder/inc/ajax/plugin.php:218
+msgid "Invalid URL - %s"
+msgstr "잘못된 URL - %s"
+
+#. Translators: %s is API URL.
+#: inc/classes/class-astra-sites.php:926
+msgid "Invalid API Request URL - %s"
+msgstr "잘못된 API 요청 URL - %s"
+
+#. Translators: %s is WXR URL.
+#: inc/lib/starter-templates-importer/importer/st-importer.php:217
+msgid "Invalid WXR Request URL - %s"
+msgstr "잘못된 WXR 요청 URL - %s"
+
+#. Translators: %s is WP Forms URL.
+#: inc/classes/class-astra-sites-importer.php:341
+msgid "Invalid WPform Request URL - %s"
+msgstr "잘못된 WPform 요청 URL - %s"
+
+#: classes/class-astra-sites-admin.php:116
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:144
+#: inc/lib/onboarding/assets/src/steps/site-list/index.js:517
+msgid "Get Essential Toolkit"
+msgstr "필수 툴킷 받기"
+
+#: inc/lib/gutenberg-templates/inc/block/dist/block.json
+msgctxt "block title"
+msgid "Spectra AI"
+msgstr "Spectra AI"
+
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:1005
+#: inc/lib/gutenberg-templates/dist/main.js:2
+msgid "Design Library"
+msgstr "디자인 라이브러리"
+
+#: inc/lib/zip-ai/classes/sidebar-configurations.php:188
+msgid "The message array was not supplied"
+msgstr "메시지 배열이 제공되지 않았습니다."
+
+#. translators: %1$s: HTML link start tag, %2$s: HTML link end tag.
+#: inc/lib/zip-ai/classes/admin-configurations.php:513
+msgid "Thank you for using %1$sZip AI.%2$s"
+msgstr "%1$sZip AI.%2$s를 사용해 주셔서 감사합니다."
+
+#: inc/lib/gutenberg-templates/inc/traits/helper.php:267
+msgid "The Zip AI Middleware encountered an error."
+msgstr "Zip AI 미들웨어에 오류가 발생했습니다."
+
+#: inc/lib/gutenberg-templates/inc/traits/helper.php:257
+msgid "The Zip AI Middleware is not responding."
+msgstr "Zip AI 미들웨어가 응답하지 않습니다."
+
+#: inc/lib/gutenberg-templates/inc/traits/helper.php:235
+#: inc/lib/zip-ai/classes/helper.php:161
+msgid "The Zip AI Auth Token is not set."
+msgstr "Zip AI 인증 토큰이 설정되지 않았습니다."
+
+#: inc/lib/gutenberg-templates/inc/traits/helper.php:225
+#: inc/lib/zip-ai/classes/helper.php:151
+msgid "The Zip AI Endpoint was not declared"
+msgstr "Zip AI 엔드포인트가 선언되지 않았습니다."
+
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:622
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:664
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:756
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:849
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:957
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1048
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1140
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1219
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1290
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1366
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1446
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1527
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1610
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1686
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1751
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1816
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1887
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1953
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:1980
+#: inc/lib/gutenberg-templates/inc/api/blocks.php:93
+#: inc/lib/gutenberg-templates/inc/api/category.php:93
+#: inc/lib/gutenberg-templates/inc/api/description.php:112
+#: inc/lib/gutenberg-templates/inc/api/favorite.php:135
+#: inc/lib/gutenberg-templates/inc/api/images.php:113
+#: inc/lib/gutenberg-templates/inc/api/keywords.php:107
+#: inc/lib/gutenberg-templates/inc/api/page-description.php:117
+#: inc/lib/gutenberg-templates/inc/api/revoke-access.php:95
+#: inc/lib/gutenberg-templates/inc/api/settings.php:131
+#: inc/lib/gutenberg-templates/inc/api/sites.php:93
+#: inc/lib/gutenberg-templates/inc/classes/ast-block-templates-zipwp-api.php:138
+#: inc/lib/gutenberg-templates/inc/classes/ast-block-templates-zipwp-api.php:197
+#: inc/lib/nps-survey/classes/nps-survey-script.php:270
+#: inc/lib/nps-survey/classes/nps-survey-script.php:376
+#: inc/lib/onboarding/classes/class-astra-sites-zipwp-api.php:163
+#: inc/lib/onboarding/classes/class-astra-sites-zipwp-api.php:236
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:167
+msgid "Nonce verification failed."
+msgstr "논스 인증에 실패했습니다."
+
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:83
+#: inc/lib/gutenberg-templates/inc/api/blocks.php:70
+#: inc/lib/gutenberg-templates/inc/api/category.php:70
+#: inc/lib/gutenberg-templates/inc/api/description.php:92
+#: inc/lib/gutenberg-templates/inc/api/do-it-later.php:69
+#: inc/lib/gutenberg-templates/inc/api/favorite.php:96
+#: inc/lib/gutenberg-templates/inc/api/images.php:93
+#: inc/lib/gutenberg-templates/inc/api/initialize-setup.php:71
+#: inc/lib/gutenberg-templates/inc/api/keywords.php:87
+#: inc/lib/gutenberg-templates/inc/api/page-description.php:97
+#: inc/lib/gutenberg-templates/inc/api/pages.php:74
+#: inc/lib/gutenberg-templates/inc/api/revoke-access.php:74
+#: inc/lib/gutenberg-templates/inc/api/settings.php:92
+#: inc/lib/gutenberg-templates/inc/api/sites.php:70
+#: inc/lib/gutenberg-templates/inc/classes/ast-block-templates-zipwp-api.php:77
+#: inc/lib/nps-survey/classes/nps-survey-script.php:248
+#: inc/lib/onboarding/classes/class-astra-sites-zipwp-api.php:80
+#: inc/lib/onboarding/classes/class-astra-sites-zipwp-integration.php:49
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:91
+msgid "Sorry, you are not allowed to do that."
+msgstr "설정이 저장되지 않았습니다."
+
+#: inc/lib/onboarding/class-onboarding-loader.php:342
+msgid "Disable Elementor Page Builder Templates in Starter Templates"
+msgstr "스타터 템플릿에서 엘리멘터 페이지 빌더 템플릿 비활성화하기"
+
+#: inc/classes/class-astra-sites.php:2774
+msgid "Required WP_Filesystem Permissions to import the templates from Starter Templates are missing."
+msgstr "스타터 템플릿에서 템플릿을 가져오기 위한 필수 WP_Filesystem 권한이 없습니다."
+
+#. translators: %1$s External Link
+#: inc/includes/templates.php:261 inc/includes/templates.php:437
+msgid "Don't see a template you would like to import? %s"
+msgstr "가져오려는 템플릿이 보이지 않나요? %s"
+
+#: inc/lib/ai-builder/inc/ajax/importer.php:389
+msgid "There was an error cloning the surecart store."
+msgstr "확실한 카트 스토어를 복제하는 동안 오류가 발생했습니다."
+
+#: inc/classes/class-astra-sites-importer.php:474
+msgid "Empty file for CartFlows flows"
+msgstr "CartFlows 흐름용 빈 파일"
+
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:270
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:274
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:445
+#: inc/lib/zip-ai/classes/sidebar-configurations.php:268
+#: inc/lib/ai-builder/inc/assets/build/main.js:184
+#: inc/lib/ai-builder/inc/assets/src/components/api-error-model.js:39
+msgid "Something went wrong"
+msgstr "문제가 발생했습니다"
+
+#: inc/classes/class-astra-sites.php:1023
+msgid "Provided API details are empty! Please try again!"
+msgstr "제공한 API 세부 정보가 비어 있습니다! 다시 시도해 주세요!"
+
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:823
+msgid "Something wrong"
+msgstr "뭔가 잘못됨"
+
+#: inc/classes/class-astra-sites.php:1663
+msgid "Get Started"
+msgstr "시작하기"
+
+#: inc/lib/ai-builder/inc/ajax/ajax-errors.php:42
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:138
+#: inc/lib/onboarding/assets/src/components/error/index.js:56
+msgid "Sorry, something went wrong."
+msgstr "죄송합니다. 문제가 발생했습니다."
+
+#. translators: %d is the Template ID.
+#: inc/classes/class-astra-sites.php:760
+msgid "Invalid Template ID - %d"
+msgstr "잘못된 템플릿 ID - %d"
+
+#: inc/lib/ai-builder/inc/traits/helper.php:219
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:147
+#: inc/lib/onboarding/assets/src/steps/survey/index.js:592
+msgid "Please contact the hosting service provider to help you update the permissions so that you can successfully import a complete template."
+msgstr "전체 템플릿을 성공적으로 가져올 수 있도록 권한을 업데이트하려면 호스팅 서비스 공급자에게 문의하십시오."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:199
+#: inc/lib/zip-ai/classes/helper.php:216
+msgid "You do not have permission to perform this action."
+msgstr "이 작업을 수행할 수 있는 권한이 없습니다."
+
+#: inc/importers/batch-processing/class-astra-sites-batch-processing.php:974
+#: inc/importers/batch-processing/class-astra-sites-batch-processing.php:992
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:780
+msgid "You are not allowed to perform this action."
+msgstr "이 작업을 수행할 권한이 없습니다."
+
+#: inc/classes/class-astra-sites-error-handler.php:150
+#: inc/lib/ai-builder/inc/classes/importer/class-ai-builder-error-handler.php:139
+#: inc/lib/starter-templates-importer/resetter/st-resetter.php:283
+msgid "There was an error your website."
+msgstr "귀하의 웹사이트에 오류가 발생했습니다."
+
+#: inc/classes/class-astra-sites-error-handler.php:110
+#: inc/lib/ai-builder/inc/classes/importer/class-ai-builder-error-handler.php:97
+#: inc/lib/starter-templates-importer/resetter/st-resetter.php:314
+msgid "There was an error on your website."
+msgstr "귀하의 웹사이트에 오류가 발생했습니다."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:793
+msgid "Deleted Widgets!"
+msgstr "삭제된 위젯!"
+
+#: inc/lib/onboarding/classes/class-astra-sites-onboarding-setup.php:75
+msgid "The XMLReader library is not available. This library is required to import the content for the website."
+msgstr "XMLReader 라이브러리를 사용할 수 없습니다. 이 라이브러리는 웹 사이트의 콘텐츠를 가져오는 데 필요합니다."
+
+#. Translators: %s is Request URL.
+#. Translators: %s is API URL.
+#: inc/classes/class-astra-sites.php:1042
+#: inc/lib/gutenberg-templates/inc/importer/template-kit-importer.php:56
+msgid "Invalid Request URL - %s"
+msgstr "잘못된 요청 URL - %s"
+
+#: inc/lib/ai-builder/inc/ajax/importer.php:517
+#: inc/lib/ai-builder/inc/classes/importer/class-ai-builder-fse-importer.php:43
+msgid "You are not authorized to perform this action."
+msgstr "이 작업을 수행할 권한이 없습니다."
+
+#: inc/classes/class-astra-sites-importer.php:468
+#: inc/classes/class-astra-sites-importer.php:471
+msgid "There was an error downloading the CartFlows flows file."
+msgstr "CartFlows 흐름 파일을 다운로드하는 동안 오류가 발생했습니다."
+
+#: inc/classes/class-astra-sites-importer.php:465
+msgid "Invalid file for CartFlows flows"
+msgstr "CartFlows 흐름에 대한 잘못된 파일"
+
+#: inc/classes/class-astra-sites-importer.php:403
+#: inc/classes/class-astra-sites-importer.php:406
+msgid "There was an error downloading the WP Forms file."
+msgstr "WP Forms 파일을 다운로드하는 동안 오류가 발생했습니다."
+
+#: inc/classes/class-astra-sites-importer.php:400
+msgid "Invalid JSON file for WP Forms."
+msgstr "WP Forms에 대한 JSON 파일이 잘못되었습니다."
+
+#. translators: %s Anchor link to support URL.
+#: inc/classes/class-astra-sites.php:1946
+msgid "Please report this error%1$s here %2$s, so we can fix it."
+msgstr "이 오류를 수정할 수 있도록 여기 %2$s에 오류 %1$s를 신고해 주세요."
+
+#: inc/includes/image-templates.php:92
+msgid "Powered by"
+msgstr "제공"
+
+#. translators: %s URL to document.
+#: inc/classes/class-astra-sites.php:1941
+msgid "%1$sPlease report this <a href=\"%2$s\" target=\"_blank\">here</a>.%3$s"
+msgstr "%1$s<a href=\"%2$s\" target=\"_blank\">여기</a>에서 신고해 주세요.%3$s"
+
+#. translators: %s URL to document.
+#: inc/classes/class-astra-sites.php:1939
+msgid "%1$sWe could not complete the import process due to failed AJAX request and this is the message:%2$s"
+msgstr "%1$sAJAX 요청 실패로 인해 가져오기 프로세스를 완료할 수 없습니다. 메시지는 다음과 같습니다.%2$s"
+
+#: inc/lib/zipwp-images/classes/zipwp-images-script.php:116
+msgid "Search - Ex: flowers"
+msgstr "검색 - 예: 꽃"
+
+#. translators: %s is a documentation link.
+#: inc/classes/class-astra-sites.php:1877
+msgid "<p>We are facing a temporary issue in installing the required plugins for this template.</p><p>Read&nbsp;<a href=\"%s\" target=\"_blank\">article</a>&nbsp;to resolve the issue and continue importing template.</p>"
+msgstr "<p>이 템플릿에 필요한 플러그인을 설치하는 데 일시적인 문제가 있습니다.</p><p><a href=\"%s\" target=\"_blank\">기사</a>를 읽으세요. 문제를 해결하고 템플릿 가져오기를 계속하세요.</p>"
+
+#: inc/lib/bsf-quick-links/class-bsf-quick-links.php:105
+msgid "Quick Links"
+msgstr "빠른 링크"
+
+#: classes/class-astra-sites-admin.php:115
+msgid "Get unlimited access to all premium Starter Templates and more, at a single low cost!"
+msgstr "저렴한 단일 비용으로 모든 프리미엄 스타터 템플릿 등에 무제한 액세스할 수 있습니다!"
+
+#: inc/classes/class-astra-sites.php:1402
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:284
+msgid "Could not download the image."
+msgstr "이미지를 다운로드할 수 없습니다."
+
+#: inc/classes/class-astra-sites.php:1377
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:274
+msgid "Need to send URL of the image to be downloaded"
+msgstr "다운로드할 이미지의 URL을 보내야 합니다."
+
+#. translators: %s URL to document.
+#: inc/classes/class-astra-sites.php:1930
+msgid "%1$sRead&nbsp;<a href=\"%2$s\" target=\"_blank\">article</a>&nbsp;to resolve the issue and continue importing template.%3$s"
+msgstr "%1$s<a href=\"%2$s\" target=\"_blank\">기사</a>를 읽고 문제를 해결하고 템플릿 가져오기를 계속하세요.%3$s"
+
+#. translators: %s HTML tags
+#: inc/classes/class-astra-sites.php:1928
+msgid "%1$sWe could not start the import process due to failed AJAX request and this is the message from WordPress:%2$s"
+msgstr "%1$sAJAX 요청 실패로 인해 가져오기 프로세스를 시작할 수 없습니다. 다음은 워드프레스에서 보낸 메시지입니다.%2$s"
+
+#: inc/classes/class-astra-sites.php:1926
+msgid "Looks like your host probably could not store XML file in /wp-content/ folder."
+msgstr "호스트가 /wp-content/ 폴더에 XML 파일을 저장할 수 없는 것 같습니다."
+
+#: inc/classes/class-astra-sites.php:1925
+msgid "To import content, WordPress needs to store XML file in /wp-content/ folder. Please get in touch with your hosting provider."
+msgstr "콘텐츠를 가져오려면 워드프레스에서 /wp-content/ 폴더에 XML 파일을 저장해야 합니다. 호스팅 제공업체에 문의하세요."
+
+#: inc/classes/class-astra-sites.php:1924
+msgid "There was an error while importing the content."
+msgstr "콘텐츠를 가져오는 동안 오류가 발생했습니다."
+
+#: inc/classes/class-astra-sites.php:1923
+msgid "There was an error connecting to the Starter Templates API."
+msgstr "스타터 템플릿 API에 연결하는 동안 오류가 발생했습니다."
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:2335
+msgid "This is a premium template available with Essential and Business Toolkits. you can purchase it from <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "이 템플릿은 에센셜 및 비즈니스 툴킷에서 사용할 수 있는 프리미엄 템플릿으로, <a href=\"%s\" target=\"_blank\">여기</a>에서 구매할 수 있습니다."
+
+#. translators: %1$s are white label strings.
+#: inc/classes/class-astra-sites-page.php:376 inc/includes/templates.php:30
+#: inc/includes/templates.php:200 inc/includes/templates.php:327
+#: inc/includes/templates.php:419
+#: inc/lib/ai-builder/inc/assets/build/main.js:195
+#: inc/lib/ai-builder/inc/assets/src/utils/functions.js:260
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:73
+#: inc/lib/onboarding/assets/src/utils/functions.js:196
+msgid "Premium"
+msgstr "프리미엄"
+
+#. translators: %s IP address.
+#: inc/classes/class-astra-sites.php:990 inc/classes/class-astra-sites.php:1105
+msgid "Client IP: %1$s </br> Error code: %2$s"
+msgstr "클라이언트 IP: %1$s </br> 오류 코드: %2$s"
+
+#: inc/classes/class-astra-sites.php:1922
+msgid "We could not start the import process and this is the message from WordPress:"
+msgstr "가져오기 프로세스를 시작할 수 없으며 다음은 워드프레스의 메시지입니다."
+
+#: inc/classes/class-astra-sites.php:1921
+msgid "Looks like the template you are importing is temporarily not available."
+msgstr "가져오려는 템플릿을 일시적으로 사용할 수 없는 것 같습니다."
+
+#: inc/classes/class-astra-sites.php:984 inc/classes/class-astra-sites.php:1099
+msgid "Internal Server Error."
+msgstr "인터넷 서버 오류."
+
+#. translators: %s Error Message
+#: inc/classes/class-astra-sites.php:954 inc/classes/class-astra-sites.php:1070
+msgid "API Request has failed - %s"
+msgstr "API 요청 실패 - %s"
+
+#. translators: %s Error Message
+#: inc/classes/class-astra-sites.php:949 inc/classes/class-astra-sites.php:1065
+msgid "API Request could not be performed - %s"
+msgstr "API 요청을 수행할 수 없습니다. - %s"
+
+#: inc/classes/class-astra-sites-page.php:460
+msgid "The default WordPress editor"
+msgstr "기본 워드프레스 편집기"
+
+#: inc/classes/class-astra-sites.php:1919
+msgid "We have sent you a surprise gift on your email address! Please check your inbox!"
+msgstr "고객님의 이메일 주소로 깜짝 선물을 보내드렸습니다! 받은편지함을 확인해주세요!"
+
+#: inc/classes/class-astra-sites.php:1915
+msgid "One Last Step.."
+msgstr "마지막 단계.."
+
+#: inc/includes/image-templates.php:88
+msgid "SafeSearch"
+msgstr "안전 검색"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:2165
+#: inc/classes/class-astra-sites.php:2170
+#: inc/classes/class-astra-sites.php:2175
+#: inc/classes/class-astra-sites.php:2193
+msgid "Read an article <a href=\"%s\" target=\"_blank\">here</a> to resolve the issue."
+msgstr "문제를 해결하려면 <a href=\"%s\" target=\"_blank\">여기</a>에서 기사를 읽어보세요."
+
+#: inc/classes/class-astra-sites.php:1913
+msgid "Dismiss this notice."
+msgstr "이 알림을 닫습니다."
+
+#. translators: %s Product title
+#: admin/bsf-analytics/class-bsf-analytics.php:458
+msgid "Allow %s products to track non-sensitive usage tracking data."
+msgstr "%s 제품이 민감하지 않은 사용량 추적 데이터를 추적하도록 허용합니다."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:466
+msgid "Learn More."
+msgstr "더 알아보기."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:461
+msgid " This will be applicable for all sites from the network."
+msgstr " 이는 네트워크의 모든 사이트에 적용됩니다."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:414
+msgid "Usage Tracking"
+msgstr "사용량 추적"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:289
+msgid "No Thanks"
+msgstr "고맙지만 사양 할게"
+
+#: admin/bsf-analytics/class-bsf-analytics.php:278
+msgid "Yes! Allow it"
+msgstr "예! 허용"
+
+#. translators: %s usage doc link
+#: admin/bsf-analytics/class-bsf-analytics.php:268
+msgid " Know More."
+msgstr " 더 많이 알아보세요."
+
+#: admin/bsf-analytics/class-bsf-analytics.php:244
+msgid "This will be applicable for all sites from the network."
+msgstr "이는 네트워크의 모든 사이트에 적용됩니다."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:434
+msgid "Insufficient Permission. Please contact your Super Admin to allow the install required plugin permissions."
+msgstr "불충분한 권한. 설치에 필요한 플러그인 권한을 허용하려면 최고 관리자에게 문의하십시오."
+
+#. translators: %s update page link.
+#: inc/classes/class-astra-sites.php:2180
+msgid "Kindly <a href=\"%s\" target=\"_blank\">update</a> them for a successful import. Skipping this step might break the template design/feature."
+msgstr "성공적인 가져오기를 위해 <a href=\"%s\" target=\"_blank\">업데이트</a>하십시오. 이 단계를 건너뛰면 템플릿 디자인/기능이 손상될 수 있습니다."
+
+#. translators: %s is a template name
+#: inc/classes/class-astra-sites.php:1885
+msgid "Import \"%s\" Template"
+msgstr "\"%s\" 템플릿 가져오기"
+
+#: inc/classes/class-astra-sites-importer-log.php:107
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:83
+msgid "This is usually due to inconsistent file permissions."
+msgstr "이는 일반적으로 파일 권한이 일치하지 않기 때문입니다."
+
+#: inc/classes/class-astra-sites.php:2373
+msgid "Block"
+msgstr "차단"
+
+#: inc/classes/class-astra-sites.php:2372
+msgid "Template"
+msgstr "템플릿"
+
+#. translators: %s is a documentation link.
+#: inc/classes/class-astra-sites.php:1875
+msgid "<p>We are facing a temporary issue in importing this template.</p><p>Read <a href=\"%s\" target=\"_blank\">article</a> to resolve the issue and continue importing template.</p>"
+msgstr "<p>이 템플릿을 가져오는 데 일시적인 문제가 있습니다.</p><p><a href=\"%s\" target=\"_blank\">문서</a>를 읽고 문제를 해결하고 템플릿 가져오기를 계속합니다.</p>"
+
+#: inc/classes/class-astra-sites.php:1873
+msgid "<p>WordPress debug mode is currently enabled on your website. This has interrupted the import process..</p><p>Kindly disable debug mode and try importing Starter Template again.</p><p>You can add the following code into the wp-config.php file to disable debug mode.</p><p><code>define('WP_DEBUG', false);</code></p>"
+msgstr "<p>워드프레스 디버그 모드가 현재 귀하의 웹사이트에서 활성화되어 있습니다. 이로 인해 가져오기 프로세스가 중단되었습니다..</p><p>디버그 모드를 비활성화하고 스타터 템플릿 가져오기를 다시 시도하십시오.</p><p>다음 코드를 wp-config.php 파일에 추가하여 디버그 모드를 비활성화할 수 있습니다.</p><p><code>define('WP_DEBUG', false);</code></p>"
+
+#: inc/classes/class-astra-sites.php:1872
+msgid "Some of the files required during the import process are missing.<br/><br/>Please try again after some time."
+msgstr "가져오기 프로세스 중에 필요한 일부 파일이 누락되었습니다.<br/><br/>잠시 후 다시 시도하십시오."
+
+#: inc/classes/class-astra-sites.php:1871
+msgid "Syncing template library in the background. The process can take anywhere between 2 to 3 minutes. We will notify you once done."
+msgstr "백그라운드에서 템플릿 라이브러리를 동기화하는 중입니다. 이 과정은 2~3분 정도 소요될 수 있습니다. 완료되면 알려드리겠습니다."
+
+#: inc/classes/class-astra-sites.php:1865
+#: inc/classes/class-astra-sites.php:2368 inc/includes/templates.php:321
+msgid "Get Access!"
+msgstr "접근 권한을 얻기!"
+
+#: inc/includes/templates.php:244 inc/includes/templates.php:316
+msgid "INSERT"
+msgstr "삽입"
+
+#: inc/includes/templates.php:45
+msgid "SEARCH"
+msgstr "검색"
+
+#. translators: 1: The HTTP response code.
+#: inc/classes/class-astra-sites-page.php:632
+msgid "Unexpected HTTP response code: %s"
+msgstr "예기치 않은 HTTP 응답 코드: %s"
+
+#: inc/classes/class-astra-sites-page.php:596
+msgid "ERROR! Cron schedules are disabled by setting constant ALTERNATE_WP_CRON to true.<br/>To start the import process please enable the cron by setting the constant to false. E.g. define( 'ALTERNATE_WP_CRON', false );"
+msgstr "오류! 크론 일정은 ALTERNATE_WP_CRON 상수를 true로 설정하면 비활성화됩니다.<br/>가져오기 프로세스를 시작하려면 상수를 false로 설정하여 크론을 활성화하십시오. 예를 들어 정의( 'ALTERNATE_WP_CRON', false);"
+
+#: inc/classes/class-astra-sites-page.php:592
+msgid "ERROR! Cron schedules are disabled by setting constant DISABLE_WP_CRON to true.<br/>To start the import process please enable the cron by setting the constant to false. E.g. define( 'DISABLE_WP_CRON', false );"
+msgstr "오류! Cron 일정은 DISABLE_WP_CRON 상수를 true로 설정하면 비활성화됩니다.<br/>가져오기 프로세스를 시작하려면 상수를 false로 설정하여 cron을 활성화하십시오. 예를 들어 정의( 'DISABLE_WP_CRON', 거짓 );"
+
+#: inc/classes/class-astra-sites-page.php:538
+msgid "now"
+msgstr "지금"
+
+#. translators: 1: The number of seconds in an interval of time.
+#: inc/classes/class-astra-sites-page.php:534
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s초"
+
+#. translators: 1: The number of minutes in an interval of time.
+#: inc/classes/class-astra-sites-page.php:532
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s분"
+
+#. translators: 1: The number of hours in an interval of time.
+#: inc/classes/class-astra-sites-page.php:530
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s시간"
+
+#. translators: 1: The number of days in an interval of time.
+#: inc/classes/class-astra-sites-page.php:528
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s일"
+
+#. translators: 1: The number of weeks in an interval of time.
+#: inc/classes/class-astra-sites-page.php:526
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s주"
+
+#. translators: 1: The number of months in an interval of time.
+#: inc/classes/class-astra-sites-page.php:524
+msgid "%s month"
+msgid_plural "%s months"
+msgstr[0] "%s개월"
+
+#. translators: 1: The number of years in an interval of time.
+#: inc/classes/class-astra-sites-page.php:522
+msgid "%s year"
+msgid_plural "%s years"
+msgstr[0] "%s년"
+
+#: inc/classes/class-astra-sites-page.php:371 inc/includes/templates.php:29
+msgid "Free"
+msgstr "무료"
+
+#: inc/classes/class-astra-sites-wp-cli.php:582
+msgid "This site type does not exist. Please try a different site type."
+msgstr "이 사이트 유형은 존재하지 않습니다. 다른 사이트 유형을 사용해 보십시오."
+
+#: inc/classes/class-astra-sites-wp-cli.php:573
+msgid "This page builder plugin is not installed. Please try a different page builder."
+msgstr "이 페이지 빌더 플러그인이 설치되지 않았습니다. 다른 페이지 빌더를 사용해 보십시오."
+
+#: inc/classes/class-astra-sites-importer-log.php:444
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:444
+msgid "You currently have no scheduled cron events."
+msgstr "현재 예정된 크론 이벤트가 없습니다."
+
+#: inc/classes/class-astra-sites-importer-log.php:110
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:86
+msgid "You can easily update permissions by adding the following code into the wp-config.php file."
+msgstr "Wp-config.php 파일에 다음 코드를 추가하여 권한을 쉽게 업데이트할 수 있습니다."
+
+#. translators: %1$s refers to the plugin name
+#: inc/classes/class-astra-sites-importer-log.php:102
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:78
+msgid "Required File Permissions to import the templates from %s are missing."
+msgstr "%s에서 템플릿을 가져오기 위한 필수 파일 권한이 없습니다."
+
+#: inc/classes/class-astra-sites.php:2662
+msgid "Template library refreshed!"
+msgstr "템플릿 라이브러리가 새로워졌습니다!"
+
+#: inc/lib/ai-builder/inc/traits/helper.php:496
+msgid "Error: You don't have the required permissions to install plugins."
+msgstr "오류: 플러그인을 설치하는 데 필요한 권한이 없습니다."
+
+#: inc/classes/class-astra-sites.php:2381
+msgid "Read More →"
+msgstr "더 읽어보기 →"
+
+#: inc/classes/class-astra-sites.php:2379
+msgid "You can locate <strong>Starter Templates Settings</strong> under the <strong>Page Settings</strong> of the Style Tab."
+msgstr "스타일 탭의 <strong>페이지 설정</strong> 아래에서 <strong>스타터 템플릿 설정</strong>을 찾을 수 있습니다."
+
+#. translators: %s are link.
+#: inc/classes/class-astra-sites.php:2339
+msgid "This is a premium template available with Essential and Business Toolkits. <a href=\"%s\" target=\"_blank\">Validate Your License</a> Key to import this template."
+msgstr "이 템플릿은 에센셜 및 비즈니스 툴킷에서 사용할 수 있는 프리미엄 템플릿입니다. <a href=\"%s\" target=\"_blank\">라이센스 유효성 검사</a> 키를 입력해야 이 템플릿을 가져올 수 있습니다."
+
+#: inc/classes/class-astra-sites.php:2187
+msgid "Dynamic Page"
+msgstr "동적 페이지"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:2175
+msgid "Kindly disable it to continue importing the Starter Template. To do so, you can add the following code into the wp-config.php file."
+msgstr "스타터 템플릿 가져오기를 계속하려면 비활성화하십시오. 이를 위해 wp-config.php 파일에 다음 코드를 추가할 수 있습니다."
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:2175
+msgid "WordPress debug mode is currently enabled on your website. With this, any errors from third-party plugins might affect the import process."
+msgstr "웹사이트에서 현재 워드프레스 디버그 모드가 활성화되어 있습니다. 이를 통해 타사 플러그인의 오류가 가져오기 프로세스에 영향을 줄 수 있습니다."
+
+#: inc/classes/class-astra-sites.php:2173
+msgid "Disable Debug Mode"
+msgstr "디버그 모드 비활성화"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:2170
+msgid "To run a smooth import, kindly enable cURL support on your website."
+msgstr "원활한 가져오기를 실행하려면 웹사이트에서 cURL 지원을 활성화하십시오."
+
+#: inc/classes/class-astra-sites.php:2168
+msgid "cURL Support Missing"
+msgstr "cURL 지원 누락"
+
+#. translators: %s doc link.
+#: inc/classes/class-astra-sites.php:2165
+msgid "You're close to importing the template. To complete the process, enable XMLReader support on your website.."
+msgstr "템플릿 가져오기가 거의 끝났습니다. 프로세스를 완료하려면 웹 사이트에서 XMLReader 지원을 활성화하십시오.."
+
+#: inc/classes/class-astra-sites.php:2163
+msgid "XMLReader Support Missing"
+msgstr "XMLReader 지원 없음"
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1890
+msgid "Installing %1$s Theme.."
+msgstr "%1$s 테마 설치 중.."
+
+#: inc/classes/class-astra-sites.php:1888
+msgid "Installing Required Plugins.."
+msgstr "필수 플러그인 설치.."
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:427
+msgid "Activated!"
+msgstr "활성화!"
+
+#: inc/lib/zipwp-images/classes/zipwp-images-script.php:118
+msgid "Validating..."
+msgstr "확인 중..."
+
+#: inc/lib/zipwp-images/classes/zipwp-images-script.php:117
+msgid "Downloading..."
+msgstr "다운로드 중..."
+
+#: inc/classes/class-astra-sites.php:907
+msgid "Provided API URL is empty! Please try again!"
+msgstr "제공된 API URL이 비어 있습니다! 다시 시도하십시오!"
+
+#: inc/classes/class-astra-sites.php:863
+msgid "Invalid Post ID or Elementor Meta"
+msgstr "잘못된 게시물 ID 또는 엘리멘터 메타"
+
+#: inc/classes/class-astra-sites.php:856
+msgid "Invalid Post Meta"
+msgstr "잘못된 게시물 메타"
+
+#: inc/classes/class-astra-sites.php:844 inc/classes/class-astra-sites.php:1264
+msgid "Invalid API URL."
+msgstr "잘못된 API URL입니다."
+
+#: inc/includes/image-templates.php:138
+msgid "Save & Insert"
+msgstr "저장 및 삽입"
+
+#: inc/includes/image-templates.php:136
+msgid "Already Saved"
+msgstr "이미 저장됨"
+
+#: inc/includes/image-templates.php:126
+msgid "Back to Images"
+msgstr "이미지로 돌아가기"
+
+#: inc/includes/templates.php:557
+msgid "Save "
+msgstr "저장 "
+
+#: inc/includes/templates.php:556
+msgid "Import "
+msgstr "가져오기 "
+
+#: inc/includes/templates.php:454 inc/lib/gutenberg-templates/dist/main.js:2
+msgid "Insert"
+msgstr "삽입"
+
+#: inc/includes/templates.php:149
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:123
+#: inc/lib/onboarding/assets/src/steps/site-list/header/sync-library/index.js:144
+msgid "Sync Library"
+msgstr "동기화 라이브러리"
+
+#: inc/includes/templates.php:139
+msgid "Blocks"
+msgstr "블록"
+
+#: inc/includes/templates.php:138 inc/lib/gutenberg-templates/dist/main.js:2
+msgid "Pages"
+msgstr "페이지"
+
+#: inc/classes/class-astra-sites-page.php:384 inc/includes/templates.php:44
+msgid "Search..."
+msgstr "검색..."
+
+#: inc/includes/templates.php:134
+msgid "Back to Layout"
+msgstr "레이아웃으로 돌아가기"
+
+#: inc/includes/templates.php:112
+msgid "Back to Pages"
+msgstr "페이지로 돌아가기"
+
+#: inc/includes/templates.php:104 inc/lib/gutenberg-templates/dist/main.js:2
+msgid "Filter by Color"
+msgstr "색상별 필터링"
+
+#: inc/classes/class-astra-sites.php:2374 inc/includes/templates.php:78
+#: inc/lib/zip-ai/sidebar/build/sidebar-app.js:11
+msgid "Dismiss"
+msgstr "취소"
+
+#: inc/classes/class-astra-sites.php:1917
+msgid "Your Selected Template is Being Imported."
+msgstr "선택한 템플릿을 가져오는 중입니다."
+
+#: inc/classes/class-astra-sites.php:1916
+msgid "Your Selected Website is Being Imported."
+msgstr "선택한 웹사이트를 가져오는 중입니다."
+
+#: inc/classes/class-astra-sites.php:2188
+msgid "This dynamic content will be available when you import the entire site."
+msgstr "이 동적 콘텐츠는 전체 사이트를 가져올 때 사용할 수 있습니다."
+
+#: inc/classes/class-astra-sites.php:2188
+#: inc/lib/gutenberg-templates/dist/main.js:2
+msgid "You will need to add it manually on the page."
+msgstr "페이지에서 수동으로 추가해야 합니다."
+
+#: inc/classes/class-astra-sites.php:2188
+#: inc/lib/gutenberg-templates/dist/main.js:2
+msgid "The page template you are about to import contains a dynamic widget/module. Please note this dynamic data will not be available with the imported page."
+msgstr "가져오려는 페이지 템플릿에 동적 위젯/모듈이 포함되어 있습니다. 가져온 페이지에서는 이 동적 데이터를 사용할 수 없습니다."
+
+#: inc/classes/class-astra-sites.php:2184
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:147
+#: inc/lib/onboarding/assets/src/steps/survey/index.js:360
+msgid "This starter template requires premium plugins. As these are third party premium plugins, you'll need to purchase, install and activate them first."
+msgstr "이 스타터 템플릿에는 프리미엄 플러그인이 필요합니다. 이들은 타사 프리미엄 플러그인이므로 먼저 구매, 설치 및 활성화해야 합니다."
+
+#. translators: %s update page link.
+#: inc/classes/class-astra-sites.php:2180
+msgid "Updates are available for plugins used in this starter template."
+msgstr "이 스타터 템플릿에 사용된 플러그인에 대한 업데이트가 제공됩니다."
+
+#: inc/classes/class-astra-sites.php:2178
+msgid "Update Plugin"
+msgstr "플러그인 업데이트"
+
+#. translators: %1$s are white label strings.
+#: inc/includes/templates.php:200 inc/includes/templates.php:327
+#: inc/includes/templates.php:415
+msgid "This premium template is accessible with %1$s \"Premium\" Package."
+msgstr "이 프리미엄 템플릿은 %1$s \"Premium\" 패키지로 액세스할 수 있습니다."
+
+#: inc/includes/templates.php:264 inc/includes/templates.php:347
+#: inc/includes/templates.php:440 inc/includes/templates.php:501
+#: inc/lib/gutenberg-templates/dist/main.js:2
+msgid "Back to Templates"
+msgstr "템플릿으로 돌아가기"
+
+#: inc/includes/image-templates.php:58 inc/includes/image-templates.php:98
+#: inc/includes/templates.php:255 inc/includes/templates.php:338
+#: inc/includes/templates.php:431 inc/includes/templates.php:489
+msgid "Sorry No Results Found."
+msgstr "죄송합니다 결과가 없습니다."
+
+#: inc/includes/templates.php:481 inc/lib/ai-builder/inc/assets/build/main.js:2
+#: inc/lib/ai-builder/inc/assets/src/components/confirmation-popup.js:15
+#: inc/lib/ai-builder/inc/assets/src/components/exit-confirmation-popover.js:67
+#: inc/lib/ai-builder/inc/assets/src/components/header-credit-status.js:158
+#: inc/lib/gutenberg-templates/dist/main.js:2
+#: inc/lib/zip-ai/admin/dashboard-app/build/dashboard-app.js:3
+#: inc/lib/zip-ai/sidebar/build/sidebar-app.js:3
+msgid "Cancel"
+msgstr "취소"
+
+#: inc/includes/templates.php:480 inc/lib/gutenberg-templates/dist/main.js:2
+msgid "Skip & Import"
+msgstr "건너뛰기 및 가져오기"
+
+#: inc/lib/starter-templates-importer/importer/helpers/wp-background-process-astra-site-importer.php:87
+msgid "All processes are complete"
+msgstr "모든 프로세스가 완료되었습니다."
+
+#. Description of the plugin
+#: astra-sites.php
+msgid "Starter Templates is all in one solution for complete starter sites, single page templates, blocks & images. This plugin offers the premium library of ready templates & provides quick access to beautiful Pixabay images that can be imported in your website easily."
+msgstr "스타터 템플릿은 완전한 스타터 사이트, 단일 페이지 템플릿, 블록 및 이미지를 위한 하나의 솔루션입니다. 이 플러그인은 준비된 템플릿의 프리미엄 라이브러리를 제공하고 웹 사이트에서 쉽게 가져올 수 있는 아름다운 Pixabay 이미지에 대한 빠른 액세스를 제공합니다."
+
+#. Plugin URI of the plugin
+#: astra-sites.php
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Plugin Name of the plugin
+#: astra-sites.php astra-sites.php:123
+#: inc/classes/class-astra-sites-nps-notice.php:80
+#: inc/classes/class-astra-sites.php:2734
+#: inc/lib/onboarding/class-onboarding-loader.php:105
+#: inc/lib/ai-builder/inc/assets/build/main.js:191
+#: inc/lib/ai-builder/inc/assets/src/components/logo.js:20
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:123
+#: inc/lib/onboarding/assets/src/components/logo/index.js:17
+msgid "Starter Templates"
+msgstr "Starter Templates"
+
+#: inc/classes/class-astra-sites-wp-cli.php:591
+msgid "This site category does not exist. Please try a different site category."
+msgstr "이 사이트 카테고리는 존재하지 않습니다. 다른 사이트 카테고리를 사용해 보십시오."
+
+#: inc/classes/class-astra-sites-wp-cli.php:331
+msgid "Invalid XML URL."
+msgstr "잘못된 XML URL입니다."
+
+#: inc/classes/class-astra-sites-wp-cli.php:518
+msgid ""
+"Invalid parameter! \n"
+"Please use `list` or `set` parameter."
+msgstr ""
+"잘못된 매개 변수!\n"
+"`list` 또는 `set` 매개변수를 사용하세요."
+
+#: inc/classes/class-astra-sites-wp-cli.php:515
+msgid ""
+"Invalid page builder slug. \n"
+"Check all page builder slugs with command `wp astra-sites page_builder list`"
+msgstr ""
+"잘못된 페이지 빌더 슬러그입니다.\n"
+"`wp astra-sites page_builder list` 명령으로 모든 페이지 빌더 슬러그 확인"
+
+#. translators: %s is the page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:512
+msgid "\"%s\" is set as default page builder."
+msgstr "\"%s\"이(가) 기본 페이지 빌더로 설정되었습니다."
+
+#. translators: %s is the current page builder name.
+#: inc/classes/class-astra-sites-wp-cli.php:504
+msgid "Default page builder is \"%s\"."
+msgstr "기본 페이지 빌더는 \"%s\"입니다."
+
+#: inc/classes/class-astra-sites-wp-cli.php:487
+msgid "Please add valid parameter."
+msgstr "유효한 매개변수를 추가하세요."
+
+#: inc/classes/class-astra-sites-wp-cli.php:437
+msgid "Importing customizer settings.."
+msgstr "사용자 정의 설정 가져오기.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:393
+msgid "Resting WP Forms..."
+msgstr "WP Forms이 쉬는 중..."
+
+#: inc/classes/class-astra-sites-wp-cli.php:386
+msgid "Reseting Terms.."
+msgstr "약관 재설정 중.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:379
+msgid "Reseting Posts.."
+msgstr "게시물 재설정 중.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:371
+msgid "Are you sure you want to delete imported site data?"
+msgstr "가져온 사이트 데이터를 삭제하시겠습니까?"
+
+#. translators: %s is error message.
+#: inc/classes/class-astra-sites-wp-cli.php:344
+msgid "WXR file Download Failed. Error %s"
+msgstr "WXR 파일 다운로드에 실패했습니다. 오류 %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:340
+msgid "Importing WXR.."
+msgstr "WXR 가져오기.."
+
+#. translators: %s is the XML file URL.
+#: inc/classes/class-astra-sites-wp-cli.php:336
+msgid "Downloading %s"
+msgstr "%s 다운로드 중"
+
+#: inc/classes/class-astra-sites-wp-cli.php:226
+msgid "Activating Plugins.."
+msgstr "플러그인 활성화 중.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:211
+msgid "Installing Plugins.."
+msgstr "플러그인 설치.."
+
+#. translators: %s is the activate plugin license link.
+#: inc/classes/class-astra-sites-wp-cli.php:193
+msgid "Use CLI command `wp brainstormforce license activate astra-pro-sites {YOUR_LICENSE_KEY}`"
+msgstr "CLI 명령 `wp brainstormforce license activate astra-pro-sites {YOUR_LICENSE_KEY}` 사용"
+
+#: inc/classes/class-astra-sites-wp-cli.php:189
+msgid "Use `wp plugin deactivate astra-sites` and then `wp plugin activate astra-pro-sites`"
+msgstr "`wp plugin deactivate astra-sites`를 사용한 다음 `wp plugin activate astra-pro-sites`를 사용하십시오."
+
+#: inc/classes/class-astra-sites-wp-cli.php:188
+msgid "This is Premium site. Please activate the \"Starter Templates\" license!"
+msgstr "프리미엄 사이트입니다. \"스타터 템플릿\" 라이선스를 활성화하십시오!"
+
+#. Translators: %s is the error message.
+#: inc/classes/class-astra-sites-wp-cli.php:176
+msgid "Site Import failed due to error: %s"
+msgstr "오류로 인해 사이트 가져오기 실패: %s"
+
+#: inc/classes/class-astra-sites-wp-cli.php:166
+#: inc/classes/class-astra-sites-wp-cli.php:432
+msgid "Invalid Site ID,"
+msgstr "잘못된 사이트 ID,"
+
+#: inc/classes/class-astra-sites-wp-cli.php:160
+msgid "Are you sure you want to import the site?"
+msgstr "사이트를 가져오시겠습니까?"
+
+#: inc/classes/class-astra-sites-wp-cli.php:124
+msgid "No sites found! Try another query."
+msgstr "사이트를 찾을 수 없습니다! 다른 쿼리를 시도하십시오."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:561
+msgid "User does not have permission!"
+msgstr "사용자에게 권한이 없습니다!"
+
+#: inc/lib/astra-notices/class-astra-notices.php:146
+msgid "WordPress Nonce not validated."
+msgstr "워드프레스 Nonce가 검증되지 않았습니다."
+
+#: inc/classes/class-astra-sites-importer.php:92
+#: inc/classes/class-astra-sites-importer.php:136
+#: inc/classes/class-astra-sites-importer.php:175
+#: inc/classes/class-astra-sites-importer.php:329
+#: inc/classes/class-astra-sites-importer.php:434
+#: inc/classes/class-astra-sites-importer.php:499
+#: inc/classes/class-astra-sites-page.php:77
+#: inc/classes/class-astra-sites-page.php:223
+#: inc/classes/class-astra-sites.php:274 inc/classes/class-astra-sites.php:829
+#: inc/classes/class-astra-sites.php:1243
+#: inc/classes/class-astra-sites.php:1338
+#: inc/classes/class-astra-sites.php:1369
+#: inc/classes/class-astra-sites.php:1569
+#: inc/importers/batch-processing/class-astra-sites-batch-processing.php:967
+#: inc/importers/batch-processing/class-astra-sites-batch-processing.php:985
+#: inc/lib/ai-builder/inc/ajax/importer.php:138
+#: inc/lib/ai-builder/inc/ajax/importer.php:163
+#: inc/lib/ai-builder/inc/ajax/importer.php:215
+#: inc/lib/ai-builder/inc/ajax/importer.php:238
+#: inc/lib/ai-builder/inc/ajax/importer.php:377
+#: inc/lib/ai-builder/inc/ajax/importer.php:429
+#: inc/lib/ai-builder/inc/ajax/importer.php:470
+#: inc/lib/ai-builder/inc/ajax/plugin.php:119
+#: inc/lib/ai-builder/inc/ajax/plugin.php:335
+#: inc/lib/ai-builder/inc/ajax/plugin.php:372
+#: inc/lib/ai-builder/inc/ajax/plugin.php:377
+#: inc/lib/ai-builder/inc/traits/helper.php:594
+#: inc/lib/ai-builder/inc/traits/helper.php:638
+#: inc/lib/ai-builder/inc/traits/helper.php:678
+#: inc/lib/ai-builder/inc/traits/helper.php:711
+#: inc/lib/ai-builder/inc/traits/helper.php:743
+#: inc/lib/ai-builder/inc/traits/helper.php:777
+#: inc/lib/ai-builder/inc/traits/helper.php:813
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:245
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:293
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:337
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:361
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:461
+#: inc/lib/gutenberg-templates/inc/importer/plugin.php:811
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:320
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:447
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:472
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:515
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:809
+#: inc/lib/gutenberg-templates/inc/importer/sync-library.php:844
+#: inc/lib/gutenberg-templates/inc/importer/template-kit-importer.php:43
+#: inc/lib/gutenberg-templates/inc/importer/template-kit-importer.php:109
+#: inc/lib/gutenberg-templates/inc/traits/upgrade.php:35
+#: inc/lib/onboarding/classes/class-astra-sites-onboarding-setup.php:69
+#: inc/lib/onboarding/classes/class-astra-sites-onboarding-setup.php:110
+#: inc/lib/zipwp-images/classes/zipwp-images-api.php:261
+msgid "You are not allowed to perform this action"
+msgstr "이 작업을 수행할 권한이 없습니다."
+
+#: inc/includes/templates.php:472
+msgid "This starter site requires premium plugins. As these are third party premium plugins, you'll need to purchase, install and activate them first."
+msgstr "이 스타터 사이트에는 프리미엄 플러그인이 필요합니다. 이들은 타사 프리미엄 플러그인이므로 먼저 구매, 설치 및 활성화해야 합니다."
+
+#: inc/classes/class-astra-sites.php:2183 inc/includes/templates.php:468
+msgid "Required Plugins Missing"
+msgstr "필수 플러그인 누락"
+
+#: inc/classes/class-astra-sites-page.php:458
+msgid "Gutenberg"
+msgstr "구텐베르크"
+
+#. translators: %1$s is the admin page URL, %2$s is product name.
+#: inc/classes/class-astra-sites-page.php:129
+msgid "Thank you for choosing %1$s! Check the library of <a class=\"astra-sites-getting-started-btn\" href=\"%2$s\">ready starter templates here »</a>"
+msgstr "%1$s을(를) 선택해 주셔서 감사합니다! <a class=\"astra-sites-getting-started-btn\" href=\"%2$s\">여기에서 바로 시작할 수 있는 템플릿 »</a> 라이브러리를 확인하세요."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:544
+msgid "Plugin Activated"
+msgstr "플러그인 활성화"
+
+#: inc/lib/ai-builder/inc/ajax/plugin.php:355
+msgid "Theme Activated"
+msgstr "테마 활성화됨"
+
+#: inc/classes/class-astra-sites.php:2375
+msgid "Install Required Plugins"
+msgstr "필수 플러그인 설치"
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:428
+msgid "Installing..."
+msgstr "설치 중..."
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:426
+msgid "Activating..."
+msgstr "활성화 중..."
+
+#: inc/lib/ai-builder/ai-builder-plugin-loader.php:425
+msgid "Installed! Activating.."
+msgstr "설치되었습니다! 활성화 중.."
+
+#: inc/classes/class-astra-sites-page.php:474
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:143
+#: inc/lib/onboarding/assets/src/steps/page-builder/index.js:156
+#: inc/lib/onboarding/assets/src/steps/page-builder/index.js:160
+msgid "Brizy"
+msgstr "브리지"
+
+#: inc/classes/class-astra-sites-page.php:469
+#: inc/lib/ai-builder/inc/assets/build/main.js:191
+#: inc/lib/ai-builder/inc/assets/src/components/page-builder-dropdown.js:30
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:123
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:143
+#: inc/lib/onboarding/assets/src/steps/ai/index.js:97
+#: inc/lib/onboarding/assets/src/steps/page-builder/index.js:131
+#: inc/lib/onboarding/assets/src/steps/page-builder/index.js:138
+#: inc/lib/onboarding/assets/src/steps/site-list/page-builder-filter/index.js:80
+msgid "Beaver Builder"
+msgstr "비버 빌더"
+
+#: inc/classes/class-astra-sites-page.php:464
+#: inc/lib/ai-builder/inc/assets/build/main.js:191
+#: inc/lib/ai-builder/inc/assets/src/components/page-builder-dropdown.js:22
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:123
+#: inc/lib/onboarding/assets/dist/onboarding/main.js:143
+#: inc/lib/onboarding/assets/src/steps/page-builder/index.js:109
+#: inc/lib/onboarding/assets/src/steps/page-builder/index.js:113
+#: inc/lib/onboarding/assets/src/steps/site-list/page-builder-filter/index.js:74
+msgid "Elementor"
+msgstr "엘리멘터"
+
+#. translators: %s are white label strings.
+#: inc/classes/class-astra-sites.php:1881
+msgid "Warning! %1$s Import process is not complete. Don't close the window until import process complete. Do you still want to leave the window?"
+msgstr "경고! %1$s 가져오기 프로세스가 완료되지 않았습니다. 가져오기 프로세스가 완료될 때까지 창을 닫지 마십시오. 그래도 창에서 나가시겠습니까?"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer/st-wxr-importer.php:841
+msgid "Import complete!"
+msgstr "가져오기 완료!"
+
+#: inc/classes/class-astra-sites-wp-cli.php:286
+msgid "Importing Widgets.."
+msgstr "위젯 가져오기.."
+
+#: inc/classes/class-astra-sites-wp-cli.php:278
+msgid "Importing Site Options.."
+msgstr "사이트 옵션 가져오기.."
+
+#. translators: %s is the site URL.
+#: inc/classes/class-astra-sites-wp-cli.php:296
+msgid ""
+"Site Imported Successfully!\n"
+"Visit: %s"
+msgstr ""
+"사이트를 성공적으로 가져왔습니다!\n"
+"방문: %s"
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:355
+msgid "Widget data is empty!"
+msgstr "위젯 데이터가 비어 있습니다!"
+
+#: inc/lib/starter-templates-importer/importer/st-importer.php:277
+msgid "Site options are empty!"
+msgstr "사이트 옵션이 비어 있습니다!"
+
+#: inc/lib/ai-builder/inc/classes/zipwp/class-ai-builder-zipwp-api.php:909
+#: inc/lib/starter-templates-importer/importer/st-importer.php:242
+msgid "There was an error downloading the XML file."
+msgstr "XML 파일을 다운로드하는 동안 오류가 발생했습니다."
+
+#: inc/lib/ai-builder/inc/traits/helper.php:824
+msgid "Customizer data is empty!"
+msgstr "사용자 정의 데이터가 비어 있습니다!"
+
+#: inc/classes/class-astra-sites-importer-log.php:372
+#: inc/classes/class-astra-sites-importer-log.php:429
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:372
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:429
+msgid "No"
+msgstr "아니요"
+
+#: inc/classes/class-astra-sites-importer-log.php:369
+#: inc/classes/class-astra-sites-importer-log.php:426
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:369
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:426
+msgid "Yes"
+msgstr "예"
+
+#: inc/classes/class-astra-sites-importer-log.php:383
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:383
+msgctxt "PHP Version"
+msgid "We recommend to use php 5.4 or higher"
+msgstr "PHP 5.4 이상 사용을 권장함"
+
+#. translators: %1$s Memory Limit, %2$s Recommended memory limit.
+#: inc/classes/class-astra-sites-importer-log.php:302
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:302
+msgctxt "Recommended Memory Limit"
+msgid "Current memory limit %1$s. We recommend setting memory to at least %2$s."
+msgstr "현재 메모리 제한 %1$s. 메모리를 %2$s 이상으로 설정하는 것이 좋습니다."
+
+#: inc/classes/class-astra-sites-importer-log.php:284
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:284
+msgid "Disabled"
+msgstr "장애가 있는"
+
+#: inc/classes/class-astra-sites-importer-log.php:281
+#: inc/lib/ai-builder/inc/classes/ai-builder-importer-log.php:281
+msgid "Enabled"
+msgstr "허용"
+
+#. translators: %1$s External Link
+#: inc/includes/image-templates.php:102 inc/includes/templates.php:344
+#: inc/includes/templates.php:498
+msgid "Don't see a template you would like to import?<br><a target=\"_blank\" href=\"%1$s\">Make a Template Suggestion!</a>"
+msgstr "가져오려는 템플릿이 보이지 않습니까?<br><a target=\"_blank\" href=\"%1$s\">템플릿 제안하기</a>"
+
+#: inc/includes/white-label.php:34
+msgid "Plugin Description:"
+msgstr "플러그인 설명:"
+
+#: inc/includes/white-label.php:29
+msgid "Plugin Name:"
+msgstr "플러그인 이름:"
+
+#. translators: %1$s product name
+#: inc/classes/class-astra-sites-white-label.php:240
+msgid "%1$s Branding"
+msgstr "%1$s 브랜딩"
+
+#. translators: %d are the minutes.
+#: inc/lib/starter-templates-importer/importer/helpers/wp-background-process.php:444
+msgid "Every %d Minutes"
+msgstr "매 %d분"
+
+#: inc/classes/class-astra-sites.php:1867
+msgid "Upgrade"
+msgstr "업그레이드"
+
+#. Author URI of the plugin
+#: astra-sites.php
+msgid "https://www.brainstormforce.com"
+msgstr "https://www.brainstormforce.com"
+
+#. Author of the plugin
+#: astra-sites.php
+msgid "Brainstorm Force"
+msgstr "브레인스토밍 포스"
+
+#. translators: %d is comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2353
+msgid "Could not update comment #%d with mapped data"
+msgstr "매핑된 데이터로 설명 #%d을(를) 업데이트할 수 없습니다."
+
+#. translators: %1$d is comment id, %2$d is author id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2333
+msgid "Comment %1$d was imported with author %2$d, but could not be found"
+msgstr "댓글 %1$d은(는) 작성자 %2$d와 함께 가져왔지만 찾을 수 없습니다."
+
+#. translators: %d is comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2326
+msgid "Could not find the author for comment #%d"
+msgstr "댓글 #%d의 작성자를 찾을 수 없습니다."
+
+#. translators: %1$s is comment id, %2$s is parent comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2309
+msgid "Comment %1$d was imported with parent %2$d, but could not be found"
+msgstr "댓글 %1$d을(를) 부모 %2$d와 함께 가져왔지만 찾을 수 없습니다."
+
+#. translators: %d is comment id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2302
+msgid "Could not find the comment parent for comment #%d"
+msgstr "설명 #%d에 대한 설명 상위를 찾을 수 없습니다."
+
+#. translators: %1$s is post id, %2$s is post object id, %3$s is menu type.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2271
+msgid "Post %1$d was imported with object \"%2$d\" of type \"%3$s\", but could not be found"
+msgstr "%1$d 게시물을 \"%3$s\" 유형의 \"%2$d\" 객체와 함께 가져왔지만 찾을 수 없습니다."
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2263
+msgid "Could not find the menu object for \"%1$s\" (post #%2$d)"
+msgstr "\"%1$s\"에 대한 메뉴 객체를 찾을 수 없습니다(게시물 #%2$d)."
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2209
+msgid "Could not update \"%1$s\" (post #%2$d) with mapped data"
+msgstr "매핑된 데이터로 \"%1$s\"(게시물 #%2$d)를 업데이트할 수 없습니다."
+
+#. translators: %d is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2192
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr "게시물 %d이(가) 게시물 처리로 표시되었지만 필수 항목은 없었습니다."
+
+#. translators: %1$d is post id, %2$s is author slug.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2163
+msgid "Post %1$d was imported with author \"%2$s\", but could not be found"
+msgstr "게시물 %1$d을 작성자가 \"%2$s\"로 가져왔지만 찾을 수 없습니다."
+
+#. translators: %1$s is the post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2155
+msgid "Could not find the author for \"%1$s\" (post #%2$d)"
+msgstr "\"%1$s\"(글 #%2$d)의 작성자를 찾을 수 없습니다."
+
+#. translators: %1$d is post id, %2$d is parent post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2138
+msgid "Post %1$d was imported with parent %2$d, but could not be found"
+msgstr "%1$d 게시물을 상위 %2$d와 함께 가져왔지만 찾을 수 없습니다."
+
+#. translators: %1$s is post title, %2$s is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2130
+msgid "Could not find the post parent for \"%1$s\" (post #%2$d)"
+msgstr "\"%1$s\"(게시물 #%2$d)의 상위 게시물을 찾을 수 없습니다."
+
+#. translators: %d is post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2114
+msgid "Running post-processing for post %d"
+msgstr "게시물 %d에 대해 게시 프로세스 실행 중"
+
+#. translators: %s max file size.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2081
+msgid "Remote file is too large, limit is %s"
+msgstr "원격 파일이 너무 큽니다. 한도는 %s입니다."
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2074
+msgid "Zero size file downloaded"
+msgstr "크기가 0인 파일 다운로드됨"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2069
+msgid "Remote file is incorrect size"
+msgstr "원격 파일의 크기가 잘못되었습니다."
+
+#. translators: %1$s is error code, %2$s is error code header, %3$s is url.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:2056
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr "원격 서버가 %3$s에 대해 %1$d %2$s을(를) 반환했습니다."
+
+#. translators: %1$s is term original id, %2$s is term id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1952
+msgid "Term %1$d remapped to %2$d"
+msgstr "용어 %1$d이(가) %2$d에 다시 매핑되었습니다."
+
+#. translators: %1$s is the taxonomy, %2$s is taxonomy name.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1917
+msgid "Failed to import %1$s %2$s"
+msgstr "%1$s %2$s 가져오기 실패"
+
+#. translators: %1$s original user Id, %2$s old user Id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1747
+msgid "User %1$d remapped to %2$d"
+msgstr "사용자 %1$d이(가) %2$d에 다시 매핑되었습니다."
+
+#. translators: %s user login name
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1740
+msgid "Imported user \"%s\""
+msgstr "가져온 사용자 \"%s\""
+
+#. translators: %s user login name
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1716
+msgid "Failed to import user \"%s\""
+msgstr "\"%s\" 사용자를 가져오지 못했습니다."
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1211
+msgid "Invalid file type"
+msgstr "잘못된 파일 형식"
+
+#. translators: %1$s is the original post id, %2$s is old post id.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1060
+msgid "Post %1$d remapped to %2$d"
+msgstr "게시물 %1$d이(가) %2$d에 재매핑되었습니다."
+
+#. translators: %1$s is the post title, %2$s is post type.
+#. translators: %1$s is the taxonomy name, %2$s is taxonomy.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1052
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1944
+msgid "Imported \"%1$s\" (%2$s)"
+msgstr "가져온 \"%1$s\"(%2$s)"
+
+#. translators: %1$s is the post title, %2$s is post type.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:1017
+msgid "Failed to import \"%1$s\" (%2$s)"
+msgstr "\"%1$s\" 가져오기 실패(%2$s)"
+
+#. translators: %s is post title
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:993
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr "\"%s\" 첨부 파일 건너뛰기, 첨부 파일 가져오기 비활성화"
+
+#. translators: %1$s single post type, %2$s is post title.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:895
+msgid "%1$s \"%2$s\" already exists."
+msgstr "%1$s \"%2$s\"이(가) 이미 존재합니다."
+
+#. translators: %1$s is the import message, %2$s is post type.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:883
+msgid "Failed to import \"%1$s\": Invalid post type %2$s"
+msgstr "\"%1$s\" 가져오기 실패: 잘못된 게시물 유형 %2$s"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:783
+msgid "Cannot import auto-draft posts"
+msgstr "자동 초안 게시물을 가져올 수 없습니다."
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:682
+msgid "Invalid author mapping"
+msgstr "잘못된 작성자 매핑"
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:622
+msgid "The file does not exist, please try again."
+msgstr "파일이 존재하지 않습니다. 다시 시도하십시오."
+
+#. translators: %1$s is WXR version, %2$s is max supported WXR version.
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:276
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:395
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:471
+msgid "This WXR file (version %1$s) is newer than the importer (version %2$s) and may not be supported. Please consider updating."
+msgstr "이 WXR 파일(버전 %1$s)은 임포터(버전 %2$s)보다 최신 파일이므로 지원되지 않을 수 있습니다. 업데이트를 고려하십시오."
+
+#: inc/lib/starter-templates-importer/importer/wxr-importer.php:238
+msgid "Could not open the file for parsing"
+msgstr "구문 분석을 위해 파일을 열 수 없습니다."
+
+#: inc/importers/class-astra-widget-importer.php:274
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:276
+msgid "No Title"
+msgstr "제목 없음"
+
+#: inc/importers/class-astra-widget-importer.php:268
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:270
+msgid "Imported to Inactive"
+msgstr "비활성 상태로 가져옴"
+
+#: inc/importers/class-astra-widget-importer.php:265
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:267
+msgid "Imported"
+msgstr "가져옴"
+
+#: inc/importers/class-astra-widget-importer.php:196
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:198
+msgid "Widget already exists"
+msgstr "위젯이 이미 존재합니다."
+
+#: inc/importers/class-astra-widget-importer.php:160
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:162
+msgid "Site does not support widget"
+msgstr "사이트에서 위젯을 지원하지 않습니다"
+
+#: inc/importers/class-astra-widget-importer.php:138
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:140
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr "위젯 영역이 테마에 존재하지 않습니다(비활성 사용)."
+
+#: inc/importers/class-astra-widget-importer.php:94
+#: inc/lib/starter-templates-importer/importer/st-widget-importer.php:93
+msgid "Import data could not be read. Please try a different file."
+msgstr "가져오기 데이터를 읽을 수 없습니다. 다른 파일을 사용해 보십시오."
+
+#: inc/classes/class-astra-sites.php:1882
+msgid "Done! View Site"
+msgstr "완료! 사이트 보기"
+
+#: inc/includes/templates.php:144 inc/includes/templates.php:145
+#: inc/lib/ai-builder/inc/assets/build/main.js:191
+#: inc/lib/ai-builder/inc/assets/src/components/improve-using-ai-modal.js:105
+#: inc/lib/gutenberg-templates/dist/main.js:2
+#: inc/lib/zip-ai/sidebar/build/sidebar-app.js:11
+msgid "Close"
+msgstr "닫기"
+
+#: inc/classes/class-astra-sites-page.php:352
+#: inc/classes/class-astra-sites-page.php:354
+#: inc/classes/class-astra-sites-page.php:366 inc/includes/templates.php:28
+#: inc/includes/templates.php:35
+#: inc/lib/onboarding/assets/src/steps/site-list/site-category-filter/index.js:31
+msgid "All"
+msgstr "모두"

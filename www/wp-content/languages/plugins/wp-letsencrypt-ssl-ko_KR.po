@@ -1,0 +1,917 @@
+# Translation of Plugins - WP Encryption &#8211; One Click Free SSL Certificate &amp; SSL / HTTPS Redirect to Force HTTPS, SSL Scan - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - WP Encryption &#8211; One Click Free SSL Certificate &amp; SSL / HTTPS Redirect to Force HTTPS, SSL Scan - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-06-12 04:34:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - WP Encryption &#8211; One Click Free SSL Certificate &amp; SSL / HTTPS Redirect to Force HTTPS, SSL Scan - Stable (latest release)\n"
+
+#: admin/le_admin.php:621
+msgid "Secure email & webmail with SSL/TLS"
+msgstr "SSL/TLS로 이메일 및 웹메일 보안 유지"
+
+#: admin/le_admin.php:621
+msgid "Secure Mail"
+msgstr "보안 메일"
+
+#: admin/le_admin_pages.php:160
+msgid "Upgrade to Premium"
+msgstr "프리미엄으로 업그레이드"
+
+#: admin/le_admin.php:1340
+msgid "View Details"
+msgstr "상세 보기"
+
+#: admin/le_admin.php:714
+msgid "If you have root SSH access, download certificate.crt & private.pem files from above and upload them onto a secure folder on your server. Then edit your server config file and point the SSL paths to uploaded %scertificate.crt%s & %sprivate.pem%s files. If you don't have either cPanel or root SSH access, Upgrade to %sPRO%s version for automatic SSL installation and automatic SSL renewal."
+msgstr "루트 SSH 액세스 권한이 있는 경우, 위에서 인증서.crt 및 private.pem 파일을 다운로드하여 서버의 보안 폴더에 업로드합니다. 그런 다음 서버 구성 파일을 편집하여 업로드한 %scertificate.crt%s 및 %sprivate.pem%s 파일의 SSL 경로를 가리키도록 합니다. cPanel 또는 루트 SSH 액세스 권한이 없는 경우 자동 SSL 설치 및 자동 SSL 갱신을 위해 %s프로%s 버전으로 업그레이드하세요."
+
+#: classes/le-security.php:169
+msgid "%sError:%s Incorrect login credentials"
+msgstr "%s오류:%s잘못된 로그인 자격 증명입니다."
+
+#: classes/le-security.php:77
+msgid "Author info access is forbidden"
+msgstr "작성자 정보 액세스가 금지됨"
+
+#: admin/le_admin_pages.php:76
+msgid "Vulnerability Scanner & Security"
+msgstr "취약점 스캐너 및 보안"
+
+#: admin/le_admin_pages.php:68
+msgid "SSL Health and Headers"
+msgstr "SSL 상태 및 헤더"
+
+#: admin/le_admin.php:1220
+msgid "Major browsers like Chrome will start showing insecure site warning IF you fail to renew / re-generate certs before this expiry date. Please clear your browser cache once."
+msgstr "이 만료일 전에 인증서를 갱신/재생성하지 않으면 Chrome과 같은 주요 브라우저에서 안전하지 않은 사이트 경고가 표시되기 시작합니다. 브라우저 캐시를 한 번 지워주세요."
+
+#: admin/le_admin.php:1238
+msgid "Mixed content issues cause browser padlock to show as insecure even if you have installed SSL certificate perfectly. Upgrade to PRO for automatic mixed content fixing."
+msgstr "혼합 콘텐츠 문제로 인해 SSL 인증서를 완벽하게 설치했더라도 브라우저 자물쇠가 안전하지 않은 것으로 표시될 수 있습니다. 혼합 콘텐츠 자동 수정 기능을 사용하려면 PRO로 업그레이드하세요."
+
+#: admin/le_handlers.php:321
+msgid "ALERT - Vulnerabilities found on %s"
+msgstr "경고 - %s에서 취약점이 발견되었습니다."
+
+#: classes/le-core.php:370
+msgid "There are some pending verifications. Please try again with DNS challenges."
+msgstr "보류 중인 확인이 몇 가지 있습니다. DNS 챌린지로 다시 시도하세요."
+
+#: classes/le-core.php:737
+msgid "No pending challenges. Proceeding.."
+msgstr "보류 중인 과제가 없습니다. 진행 중.."
+
+#: admin/le_admin.php:783
+msgid "We highly recommend upgrading to our %sPRO%s annual plan which works on all types of hosting platforms."
+msgstr "모든 유형의 호스팅 플랫폼에서 작동하는 %s프로%s 연간 요금제로 업그레이드하는 것을 적극 권장합니다."
+
+#: admin/le_admin_pages.php:671
+msgid "You will manually need to %sfollow our nginx tutorial%s to restrict access to private key file on your Nginx server."
+msgstr "Nginx 서버의 비공개 키 파일에 대한 액세스를 제한하려면 nginx 튜토리얼을 %sfollow%s 수동으로 수행해야 합니다."
+
+#. Author of the plugin
+#: wp-letsencrypt.php
+msgid "WP Encryption SSL HTTPS"
+msgstr "WP 암호화 SSL HTTPS"
+
+#: classes/le-subdir-challenge.php:144
+msgid "Some hosts purposefully block BOT access to acme-challenge folder, please try completing DNS challenge in such case."
+msgstr "일부 호스트는 의도적으로 acme-challenge 폴더에 대한 BOT 액세스를 차단하므로 이러한 경우 DNS 챌린지를 완료해 보세요."
+
+#: admin/le_admin.php:319
+msgid "All email notifications are sent to this email ID"
+msgstr "모든 이메일 알림은 이 이메일 ID로 전송됩니다."
+
+#: admin/le_admin.php:487 admin/le_admin.php:1247 admin/le_admin.php:1348
+msgid "Don't show again"
+msgstr "다시 표시하지 않음"
+
+#: admin/le_admin.php:1213 admin/le_admin_pages.php:424
+msgid "Your generated SSL certificate expires on"
+msgstr "생성된 SSL 인증서는 다음 날짜에 만료됩니다."
+
+#: admin/le_admin.php:734
+msgid "You can also upgrade to our %sCDN%s plan to avail fully automatic SSL + Fastest CDN + Firewall Security."
+msgstr "또한, 완전 자동 SSL + 최고속 CDN + 방화벽 보안을 이용하려면 %sCDN%s 요금제로 업그레이드할 수도 있습니다."
+
+#: admin/le_admin.php:276
+msgid "SSL INSTALL FORM - ENTER YOUR EMAIL BELOW & GENERATE SSL CERTIFICATE"
+msgstr "SSL 설치 양식 - 아래에 이메일을 입력하고 SSL 인증서를 생성하세요."
+
+#: classes/le-advanced-scanner.php:72
+msgid "Insecure links within css/js files"
+msgstr "CSS/JS 파일 내 안전하지 않은 링크"
+
+#: admin/le_admin_pages.php:668
+msgid "As WP Encryption handles all the functionality this plugin provides, we recommend disabling this plugin to prevent unexpected behaviour."
+msgstr "WP 암호화는 이 플러그인이 제공하는 모든 기능을 처리하므로 예기치 않은 동작을 방지하려면 이 플러그인을 비활성화하는 것이 좋습니다."
+
+#: admin/le_admin_pages.php:668
+msgid "We have detected the %s plugin on your website."
+msgstr "회원님의 웹사이트에서 %s 플러그인을 감지했습니다."
+
+#: admin/le_admin_pages.php:487
+msgid "START THE SCAN"
+msgstr "스캔 시작"
+
+#: admin/le_admin_pages.php:484
+msgid "Scan your entire site (public posts + pages) for mixed/insecure content issues that are causing secure browser padlock to not show even if SSL certificate is installed correctly. SOURCE column shows you where the insecure url is coming from, you can easily find the mixed content url and update it to https:// to resolve the issue. Issues arising from Widgets or Inline are global issues which could be breaking HTTPS padlock on several of your webpages. Resolve the issues, reload and re-scan to confirm everything is resolved."
+msgstr "전체 사이트(공개 글 + 페이지)에서 SSL 인증서가 올바르게 설치되어 있어도 보안 브라우저 자물쇠가 표시되지 않는 혼합/안전하지 않은 콘텐츠 문제를 검사합니다. 소스 열에 안전하지 않은 URL의 출처가 표시되므로 혼합 콘텐츠 URL을 쉽게 찾아 https:// 으로 업데이트하여 문제를 해결할 수 있습니다. 위젯 또는 인라인에서 발생하는 문제는 여러 웹페이지에서 HTTPS 패드락을 깨뜨릴 수 있는 글로벌 문제입니다. 문제를 해결하고 다시 로드한 후 다시 스캔하여 모든 문제가 해결되었는지 확인하세요."
+
+#: admin/le_admin_pages.php:484
+msgid "Advanced Insecure Content Scanner"
+msgstr "고급 안전하지 않은 콘텐츠 스캐너"
+
+#: admin/le_admin_pages.php:1082
+msgid "SSL Health"
+msgstr "SSL 상태"
+
+#: admin/le_admin.php:1202
+msgid "or spread the word on %s %s %s %s"
+msgstr "또는 %s %s %s %s에 소문을 퍼뜨리세요."
+
+#: admin/le_admin.php:371
+msgid "https://letsencrypt.org/documents/LE-SA-v1.2-November-15-2017.pdf"
+msgstr "https://letsencrypt.org/documents/LE-SA-v1.2-November-15-2017.pdf"
+
+#: admin/le_admin_pages.php:867
+msgid "You must have a valid SSL certificate installed on your site before enabling this feature"
+msgstr "이 기능을 사용하려면 먼저 사이트에 유효한 SSL 인증서가 설치되어 있어야 합니다."
+
+#: admin/le_admin_pages.php:463
+msgid "Use this handy tool to reset the SSL process and start again in case you get some error like 'no account exists with provided key'. This reset action will ONLY delete the generated certificate, keys folder and reset SSL install form to initial state. This won't affect SSL installed on your site or any other part of your site."
+msgstr "'제공된 키가 있는 계정이 없습니다'와 같은 오류가 발생하는 경우 이 편리한 도구를 사용하여 SSL 프로세스를 재설정하고 다시 시작하세요. 이 재설정 작업은 생성된 인증서, 키 폴더만 삭제하고 SSL 설치 양식을 초기 상태로 재설정합니다. 사이트에 설치된 SSL이나 사이트의 다른 부분에는 영향을 미치지 않습니다."
+
+#: admin/le_admin_pages.php:349
+msgid "Starting from WP Encryption v5.4.8, you can now secure your webmail & incoming/outgoing email server %sfollowing this guide%s"
+msgstr "%s이 가이드에 따라%s WP 암호화 v5.4.8부터 웹메일 및 수신/발신 이메일 서버를 보호할 수 있습니다."
+
+#: admin/le_admin_pages.php:348
+msgid "Secure webmail & mail server with SSL Certificate"
+msgstr "SSL 인증서로 웹메일 및 메일 서버 보안 유지"
+
+#: classes/le-subdir-challenge.php:161
+msgid "HTTP verification not possible when secure mail or webmail option is chosen. Please verify via DNS method."
+msgstr "보안 메일 또는 웹메일 옵션을 선택한 경우 HTTP 인증이 불가능합니다. DNS 방식으로 확인해 주세요."
+
+#: admin/le_admin.php:352
+msgid "Secure %s"
+msgstr "보안 %s"
+
+#: admin/le_admin.php:344 admin/le_admin.php:352
+msgid "This option will secure %s but DNS based domain verification is MANDATORY"
+msgstr "이 옵션은 %s를 보호하지만 DNS 기반 도메인 확인은 필수입니다."
+
+#: admin/le_admin.php:344
+msgid "Secure POP/IMAP email server"
+msgstr "안전한 POP/IMAP 이메일 서버"
+
+#: admin/le_admin.php:734
+msgid "cPanel link goes to 404 not found page?. "
+msgstr "cPanel 링크가 404 찾을 수 없음 페이지로 이동하나요? "
+
+#: classes/le-core.php:610
+msgid "With free version, You can download and send these SSL certificates to your hosting support asking them to install these SSL certificates."
+msgstr "무료 버전에서는 이 SSL 인증서를 다운로드하여 호스팅 지원팀에 보내서 이 SSL 인증서를 설치하도록 요청할 수 있습니다."
+
+#: admin/le_admin.php:692
+msgid "Copy the contents of %sCertificate.crt%s, %sPrivate.pem%s, %sCABundle.crt%s files from below & paste them into its appropriate fields on cPanel"
+msgstr "아래에서 %sCertificate.crt%s, %sPrivate.pem%s, %sCABundle.crt%s 파일의 내용을 복사하여 cPanel의 해당 필드에 붙여넣기합니다."
+
+#: admin/le_admin.php:690
+msgid "Click on %sManage SSL Sites%s option"
+msgstr "%sSSL 사이트 관리%s 옵션을 클릭합니다."
+
+#: admin/le_admin.php:688
+msgid "%sClick here%s to login into your cPanel."
+msgstr "cPanel에 로그인하려면 %s여기를 클릭%s합니다."
+
+#: admin/le_admin.php:1244
+msgid "Your site have mixed content issues!"
+msgstr "사이트에 혼합 콘텐츠 문제가 있습니다!"
+
+#: classes/le-trait.php:140
+msgid "Free Support"
+msgstr "무료 지원"
+
+#: admin/le_admin_pages.php:152
+msgid "RESET"
+msgstr "RESET"
+
+#: admin/le_admin_pages.php:413
+msgid "Email SSL certs as attachment when SSL is generated / auto renewed."
+msgstr "SSL 생성/자동 갱신 시 SSL 인증서를 첨부 파일로 이메일 전송."
+
+#: classes/le-core.php:630
+msgid "Confidential: New SSL cert files have been attached to this email as per your preferences."
+msgstr "기밀: 사용자의 기본 설정에 따라 새 SSL 인증서 파일이 이 이메일에 첨부되었습니다."
+
+#: admin/le_admin.php:291
+msgid "%sWARNING:%s You are trying to install SSL for %stemporary domain%s which is not possible. Please point your real domain like wpencryption.com to your site and update your site url in %ssettings%s > %sgeneral%s before you could generate SSL."
+msgstr "%s경고:%s %s임시 도메인%s에 SSL을 설치하려고 하는데 이는 불가능합니다. SSL을 생성하려면 wpencryption.com과 같은 실제 도메인을 사이트에 가리키고 %ssettings%s > %s일반%s에서 사이트 URL을 업데이트하세요."
+
+#: admin/le_admin.php:903
+msgid "Tired of manual SSL renewal every 90 days?, Upgrade to PRO version for automatic SSL installation and automatic SSL renewal"
+msgstr "90일마다 수동 SSL 갱신에 지치셨나요? 자동 SSL 설치 및 자동 SSL 갱신을 위해 프로 버전으로 업그레이드하세요."
+
+#: admin/le_admin.php:902
+msgid "Your SSL Certificate is expiring soon!. Please make sure to re-generate new SSL Certificate using %sWP Encryption%s and install it on your hosting server to avoid site showing insecure warning with expired certificate."
+msgstr "SSL 인증서가 곧 만료됩니다! 만료된 인증서로 사이트에 안전하지 않다는 경고가 표시되지 않도록 %sWP 암호화%s를 사용하여 새 SSL 인증서를 다시 생성하고 호스팅 서버에 설치하세요."
+
+#: admin/le_admin.php:900
+msgid "ATTENTION - SSL Certificate of %s expires in just 10 days"
+msgstr "주의 - %s의 SSL 인증서가 10일 후에 만료됩니다."
+
+#: admin/le_admin.php:1180
+msgid "Click Here To Renew SSL Certificate"
+msgstr "SSL 인증서를 갱신하려면 여기를 클릭하세요"
+
+#: admin/le_admin.php:1220
+msgid "Let's Encrypt® SSL Certificate expires in 90 days by default. You can easily re-generate new SSL certificate using <strong>RENEW SSL CERTIFICATE</strong> option found on left or by clicking on <strong>STEP 1</strong> in progress bar."
+msgstr "Let's Encrypt® SSL 인증서는 기본적으로 90일 후에 만료됩니다. 왼쪽에 있는 <strong>RENEW SSL CERTIFICATE</strong> 옵션을 사용하거나 진행률 표시줄에서 <strong>STEP 1</strong>을 클릭하여 새 SSL 인증서를 쉽게 다시 생성할 수 있습니다."
+
+#: classes/le-core.php:696
+msgid "Offering manual verification procedure."
+msgstr "수동 확인 절차 제공."
+
+#: admin/le_admin_pages.php:340
+msgid "If you have already installed SSL on your cPanel/server, auto renewal of SSL will start working in background after upgrading and activating your PRO license. If you have not yet installed SSL on your cPanel/server, please click on STEP 1 in progress bar and run the SSL install form once by entering your email and clicking on Generate SSL button, this will automate the SSL installation as well as the automatic renewal in background."
+msgstr "CPanel/서버에 이미 SSL을 설치한 경우, PRO 라이선스를 업그레이드하고 활성화하면 SSL 자동 갱신이 백그라운드에서 작동하기 시작합니다. 아직 cPanel/서버에 SSL을 설치하지 않은 경우 진행률 표시줄에서 1단계를 클릭하고 이메일을 입력하고 SSL 생성 버튼을 클릭하여 SSL 설치 양식을 한 번 실행하면 백그라운드에서 자동 갱신과 함께 SSL 설치가 자동으로 이루어집니다."
+
+#: admin/le_admin_pages.php:339
+msgid "Should I configure anything after upgrading to PRO?"
+msgstr "프로로 업그레이드한 후 설정해야 할 사항이 있나요?"
+
+#: admin/le_admin_pages.php:268
+msgid "We could not detect valid SSL on your site!. Please double check SSL certificate is properly installed on your cPanel / Server. You can also try opening wp-admin via https:// and then enable force HTTPS."
+msgstr "사이트에서 유효한 SSL을 감지할 수 없습니다! SSL 인증서가 cPanel/서버에 제대로 설치되었는지 다시 확인하세요. https:// 을 통해 wp-admin을 열고 강제 HTTPS를 활성화할 수도 있습니다."
+
+#: admin/le_admin.php:756
+msgid "We could not detect valid SSL certificate installed on your site!. Please try after some time. You can also try opening wp-admin via https:// and click on enable https button."
+msgstr "사이트에 설치된 유효한 SSL 인증서를 감지할 수 없습니다! 잠시 후 다시 시도해 보세요. https:// 에서 wp-admin을 열고 https 활성화 버튼을 클릭해 볼 수도 있습니다."
+
+#: admin/le_admin.php:703
+msgid "If you have root SSH access, edit your server config file and point your SSL paths to %scertificate.crt%s & %sprivate.pem%s files located in %s folder. If you don't have either cPanel or root SSH access, Upgrade to %sPRO%s version for automatic SSL installation and automatic SSL renewal."
+msgstr "루트 SSH 액세스 권한이 있는 경우 서버 구성 파일을 편집하여 SSL 경로를 %s 폴더에 있는 %scertificate.crt%s 및 %sprivate.pem%s 파일로 가리키세요. cPanel 또는 루트 SSH 액세스 권한이 없는 경우, 자동 SSL 설치 및 자동 SSL 갱신을 위해 %sPRO%s 버전으로 업그레이드하세요."
+
+#: admin/le_admin_pages.php:346
+msgid "First of all, Please make sure you can access your site with and without www. Otherwise you will be not able to complete domain verification for both www & non-www together. If both of your www and non-www domains are publicly accessible, A new option named <strong>\"Generate SSL for both www & non-www\"</strong> will be automatically shown on WP Encryption SSL install form. You can also force enable this checkbox by adding <strong>includewww=1</strong> to page url i.e., <strong>/wp-admin/admin.php?page=wp_encryption&includewww=1</strong>"
+msgstr "우선, www를 포함하거나 포함하지 않고 사이트에 액세스할 수 있는지 확인하세요. 그렇지 않으면 www와 비-www 모두에 대한 도메인 확인을 완료할 수 없습니다. 웹사이트와 웹사이트 외 도메인이 모두 공개적으로 액세스할 수 있는 경우, <strong>\"웹사이트와 웹사이트 외 도메인 모두에 대해 SSL 생성\"</strong>이라는 새 옵션이 WP 암호화 SSL 설치 양식에 자동으로 표시됩니다. 페이지 URL에 <strong>includeewww=1</strong>을 추가하여 이 확인란을 강제로 활성화할 수도 있습니다(예: <strong>/wp-admin/admin.php?page=wp_encryption&includeewww=1</strong>)."
+
+#: admin/le_admin.php:999
+msgid "SAVE MORE THAN $90+ EVERY YEAR IN SSL CERTIFICATE FEE"
+msgstr "매년 $90 이상의 SSL 인증서 수수료 절약"
+
+#: admin/le_admin.php:615
+msgid "Free users must manually renew / re-generate SSL certificate every 90 days."
+msgstr "무료 사용자는 90 일마다 SSL 인증서를 수동으로 갱신/다시 생성해야해요."
+
+#: admin/le_admin.php:615
+msgid "SSL Renewal"
+msgstr "SSL 새로고치기"
+
+#: admin/le_admin.php:609
+msgid "SSL Installation"
+msgstr "SSL 설치"
+
+#: admin/le_admin_pages.php:365
+msgid "Please follow the revert back instructions given in [support forum](https://wordpress.org/support/plugin/wp-letsencrypt-ssl/)."
+msgstr "[지원포럼](https://wordpress.org/support/plugin/wp-letsencrypt-ssl/)에 있는 되돌리기 지침을 따르시기 바래요."
+
+#: admin/le_admin_pages.php:359
+msgid "If you have purchased the <b>WP Encryption PRO</b> version, You can notice Single domain vs Wildcard SSL switch on WP Encryption page."
+msgstr "<b>WP 암호화 프로</b>판을 구매했다면, 워프 암호화 페이지에서 단일 도메인 대 와일드카드 SSL 전환을 확인할 수 있어요."
+
+#: classes/le-trait.php:139
+msgid "Videos"
+msgstr "비디오"
+
+#: admin/le_admin_pages.php:223
+msgid "Most suitable for new sites & sites using proxies"
+msgstr "새 사이트 & 프록시를 이용하는 사이트에 가장 적합해요"
+
+#: admin/le_admin_pages.php:202
+msgid "If you still notice mixed content issues or issues with browser padlock not showing on your site, please use %sMixed Content Scanner%s to scan and identify exact issues causing browser padlock to not show!."
+msgstr "사이트에 혼합된 내용 문제 또는 브라우저 자물쇠가 보이지 않는 문제를 안내받고 있다면, 브라우저 자물쇠가 보이지 않는 정확한 원인을 검사하고 식별할 수 있는 %s혼합된 내용 검사기%s를 이용하시기 바래요!."
+
+#: admin/le_admin_pages.php:101
+msgid "Mixed Content Scanner"
+msgstr "혼합된 내용 검색기"
+
+#: admin/le_admin_pages.php:230
+msgid "Most suitable for old sites with lots of assets, links."
+msgstr "자원, 링크가 많은 오래된 사이트에 적합해요."
+
+#: classes/le-subdir-challenge.php:174
+msgid "Go to domain DNS manager of your primary domain. Add below TXT records using add TXT record option."
+msgstr "기본 도메인의 도메인 DNS 관리자로 가세요. 아래의 TXT 기록을 TXT 기록 넣기를 이용해 넣으세요."
+
+#: admin/le_admin.php:1210
+msgid "Just takes a moment"
+msgstr "아주 잠시면 되요"
+
+#: admin/le_admin.php:784
+msgid "Your hosting server don't seem to support third party SSL."
+msgstr "호스팅 서버가 타사 SSL을 지원하는 것으로 보이지 않아요."
+
+#: admin/le_admin.php:781
+msgid "There was some issue while generating SSL for your site. Please check debug log or try Reset option once."
+msgstr "사이트의 SSL 인증서를 생성하는 동안 문제가 생겼어요. 디버그 기록을 확인하거나 선택지를 한 번 재설정 시도하시기 바랍니다."
+
+#: admin/le_admin.php:1216
+msgid "Days"
+msgstr "일"
+
+#: admin/le_admin.php:1208
+msgid "LEAVE A RATING"
+msgstr "평점 남기기"
+
+#: admin/le_admin.php:1195
+msgid "Can you please do us a BIG favor by leaving a %s%s%s%s%s rating on WordPress.org"
+msgstr "%s%s%s%s%s 평점을 WordPress.org에 남겨주시는 큰 호의를 베풀어 주실 수 있으신가요"
+
+#: admin/le_admin.php:1189
+msgid "Woohoo! WP Encryption just saved you $$$ in SSL Certificate Fee."
+msgstr "야호! WP 인증서 비용 $$$을(를) 절약했어요."
+
+#: admin/le_admin.php:725
+msgid "Please wait few minutes and click on %sEnable HTTPS Now%s button"
+msgstr "몇 분을 기다리고 %sHTTPS 지금 활성화하기%s 단추를 누르시기 바래요"
+
+#: admin/le_admin.php:724
+msgid "Click on %sInstall certificate%s"
+msgstr "%s인증서 설치하기%s를 누르기"
+
+#: admin/le_admin.php:689
+msgid "Open %sSSL/TLS%s option on your cPanel"
+msgstr "cPanel의 %sSSL/TLS%s 선택지 열기"
+
+#: admin/le_admin.php:410
+msgid "Domains Covered"
+msgstr "대상 도메인"
+
+#: admin/le_admin.php:283
+msgid "PRIMARY DOMAIN"
+msgstr "기본 도메인"
+
+#: admin/le_admin_pages.php:478
+msgid ".htaccess file not writable. Please remove WP_Encryption_Force_SSL block from .htaccess file manually using FTP or File Manager."
+msgstr ".htaccess 파일을 쓸 수 없네요. WP_Encryption_Force_SSL 블록을 FTP나 파일 관리자를 이용해 .htaccess 파일에서 직접 지우시기 바래요."
+
+#: admin/le_admin_pages.php:447 classes/le-trait.php:137
+msgid "Debug Log"
+msgstr "디버그 기록"
+
+#: admin/le_admin_pages.php:440
+msgid "Please share below debug log when requesting support"
+msgstr "지원을 요청할 때 아래의 디버그 기록을 공유하시기 바래요"
+
+#: admin/le_admin_page_wrapper.php:97
+msgid "HTACCESS not writable! Please go back and use alternate method of forcing SSL."
+msgstr "HTACCESS를 쓸 수 없네요! 다시 돌아가 SSL을 강제하는 대체 방법을 사용하시기 바래요."
+
+#: classes/le-subdir-challenge.php:194
+msgid "Verify DNS Challenges"
+msgstr "DNS 챌린지 확인하기"
+
+#: classes/le-subdir-challenge.php:186
+msgid "Please wait 5-10 Minutes for newly added DNS to propagate and then verify DNS using below button"
+msgstr "새로 넣은 DNS가 전파하는 5-10분을 기다리고 아래의 단추를 이용해 DNS를 확인하세요"
+
+#: classes/le-subdir-challenge.php:182
+msgid "Value"
+msgstr "값"
+
+#: classes/le-subdir-challenge.php:181
+msgid "%sLowest%s possible value"
+msgstr "가능한 %s가장 낮은%s 값"
+
+#: classes/le-subdir-challenge.php:181
+msgid "TTL"
+msgstr "TTL"
+
+#: classes/le-subdir-challenge.php:180
+msgid "Name"
+msgstr "이름"
+
+#: classes/le-subdir-challenge.php:170
+msgid "DNS Challenges"
+msgstr "DNS 챌린지"
+
+#: classes/le-subdir-challenge.php:152 classes/le-subdir-challenge.php:158
+msgid "HTTP verification not possible on your site as your hosting server blocks bot access. Please proceed with DNS verification."
+msgstr "호스팅 서버에서 봇 접근을 막고 있어서 HTTP 확인이 가능하지 않아요. DNS 확인으로 진행하시기 바래요."
+
+#: classes/le-subdir-challenge.php:142
+msgid "Verify HTTP Challenges"
+msgstr "HTTP 챌린지 확인하기"
+
+#: classes/le-subdir-challenge.php:132
+msgid "Uploaded files should be publicly viewable at"
+msgstr "업로드한 파일은 다음 위치에서 공개적으로 볼 수 있어야 해요"
+
+#: classes/le-subdir-challenge.php:129
+msgid "Upload the above downloaded challenge files into acme-challenge folder"
+msgstr "위에서 내려받은 챌린지 파일을 acme-challenge 폴더 안에 업로드하세요"
+
+#: classes/le-subdir-challenge.php:119
+msgid "Navigate to your %sdomain%s / %ssub-domain%s folder. Create %s.well-known%s folder and create %sacme-challenge%s folder inside .well-known folder if not already created."
+msgstr "%s도메인%s / %s하위 도메인%s 폴더로 탐색하세요. 이미 만들지 않았다면 %s.well-known%s 폴더를 만들고 .well-known 폴더 안에 %sacme-challenge%s폴더를 만드세요."
+
+#: classes/le-subdir-challenge.php:117
+msgid "Open FTP or File Manager on your hosting panel"
+msgstr "FTP나 호스팅 패널에서 파일 관리를 여세요"
+
+#: classes/le-subdir-challenge.php:114
+msgid "Verification File"
+msgstr "확인 파일"
+
+#: classes/le-subdir-challenge.php:113
+msgid "Download File"
+msgstr "파일 내려받기"
+
+#: classes/le-subdir-challenge.php:104
+msgid "Download HTTP challenge files below"
+msgstr "아래의 HTTP 챌린지 파일 내려받기"
+
+#: classes/le-subdir-challenge.php:102 classes/le-subdir-challenge.php:172
+msgid "Video Tutorial"
+msgstr "비디오 자습서"
+
+#: classes/le-subdir-challenge.php:100
+msgid "HTTP Challenges"
+msgstr "HTTP 챌린지"
+
+#: classes/le-subdir-challenge.php:42
+msgid "Please verify your domain ownership by completing <strong>one</strong> of the below challenges"
+msgstr "아래의 챌린지 중 하나를 완료하여 도메인 소유권을 확인하시기 바래요"
+
+#: classes/le-subdir-challenge.php:40
+msgid "Could not retrieve domain verification challenges. Please go back and try again."
+msgstr "도메인 확인 챌린지를 검색할 수 없어요. 다시 돌아가 다시 시도해 보시기 바래요."
+
+#: admin/le_admin_pages.php:110
+msgid "Debug log"
+msgstr "디버그 기록"
+
+#: wp-letsencrypt.php:169
+msgid "Due to security nature of this plugin, We <b>HIGHLY</b> recommend you opt-in to our security & feature updates notifications, and <a href=\"https://freemius.com/wordpress/usage-tracking/5090/wp-letsencrypt-ssl/\" target=\"_blank\">non-sensitive diagnostic tracking</a> to get BEST support. If you skip this, that's okay! <b>WP Encryption</b> will still work just fine."
+msgstr "이 플러그인의 보안 특성으로 인해, 보안 & 기능 업데이트 알림 설정과, 최고의 지원을 받기 위한 <a href=\"https://freemius.com/wordpress/usage-tracking/5090/wp-letsencrypt-ssl/\" target=\"_blank\">민감하지 않은 진단 추적</a>을 <b>강력히</b> 권장해요. 건너뛰기 해도, 괜찮아요! <b>WP 암호화</b>는 잘 작동할거에요."
+
+#: admin/le_admin_pages.php:368
+msgid "Please use our <a href=\"%s\" target=\"%s\">Plugin support forum</a>. <b>PRO</b> users can register free account & use priority support at support.wpencryption.com. More info - https://wpencryption.com"
+msgstr "<a href=\"%s\" target=\"%s\">플러그인 지원 포럼</a>을 이용해 주세요. <b>PRO</b> 사용자는 support.wpencryption.com에서 무료 계정을 등록하고 우선 지원을 이용할 수 있습니다. 자세한 정보 - https://wpencryption.com"
+
+#: admin/le_admin_pages.php:230
+msgid "Force SSL via WordPress (Alternate solution if htaccess redirect cause any issues)"
+msgstr "워드프레스를 통해 SSL 강제하기 (문제가 있어서 htaccess 전환이 어려운 경우의 대체 해법)"
+
+#: admin/le_admin_pages.php:223
+msgid "Force SSL via HTACCESS (Server level 301 redirect - Faster)"
+msgstr "HTACCESS를 통해 SSL 강제하기 (서버 수준 전환 - 더 빠릅니다)"
+
+#: admin/le_admin_pages.php:216
+msgid "Disable"
+msgstr "활성해제하기"
+
+#: admin/le_admin_pages.php:84
+msgid "Download SSL Certificates"
+msgstr "SSL 인증서 내려받기"
+
+#: admin/le_admin.php:738
+msgid "After installing SSL certs on your cPanel, open your site in https:// and click on padlock to see if valid certificate exists. You can also test your site's SSL on SSLLabs.com"
+msgstr "SSL 인증서를 cPanel에 설치한 뒤에, 사이트를 https://로 열고 유효한 인증서가 있다면 볼 수 있는 자물쇠를 누르세요. SSLLabs.com에서 사이트의 SSL을 시험할 수도 있어요"
+
+#: admin/le_admin.php:676
+msgid "We just completed major task of generating SSL certificate! Now we have ONE final step to complete."
+msgstr "SSL 인증서를 만드는 주요 과업을 방금 완료했어요! 이제 완료할 마지막 단계 하나만 남았네요."
+
+#: admin/le_admin.php:380
+msgid "I agree to <b>WP Encryption</b> %sTerms of service%s"
+msgstr "<b>WP 암호화</b> %s약관%s에 동의해요"
+
+#: admin/le_admin.php:360
+msgid "Anonymously send response data to get better support"
+msgstr "더 나은 지원을 위해 익명으로 응답 자료 보내기"
+
+#: classes/le-trait.php:81
+msgid "Click to re-start from beginning"
+msgstr "다시 시작하려면 누르세요"
+
+#: admin/le_admin_pages.php:335
+msgid "FREQUENTLY ASKED QUESTIONS"
+msgstr "자주 묻는 질문"
+
+#: admin/le_admin.php:903 classes/le-core.php:608
+msgid "UPGRADE TO PREMIUM"
+msgstr "프리미엄으로 승급"
+
+#: admin/le_admin.php:782 admin/le_admin.php:795
+msgid "Feel free to open support ticket at %s for any help."
+msgstr "도움이 필요하면 %s에서 지원 티켓을 부담없이 열어요."
+
+#: admin/le_admin.php:955
+msgid "Success"
+msgstr "성공했네요"
+
+#: admin/le_admin_pages.php:271
+msgid "In case you break the site, here is revert back to HTTP:// instructions - %s"
+msgstr "사이트가 깨지는 경우, 여기에 HTTP://로 되돌리는 안내가 있어요 - %s"
+
+#: admin/le_admin_pages.php:270
+msgid "CLICK TO FORCE ENABLE HTTPS (Do it at your own risk)"
+msgstr "눌러서 HTTPS 강제로 사용하기 (위험 부담은 스스로 부담하기)"
+
+#: admin/le_admin.php:757 admin/le_admin_pages.php:269
+msgid "Switching to HTTPS without properly installing the SSL certificate might break your site."
+msgstr "SSL 인증서가 바르게 설치되지 않은채 HTTPS로 전환하면 사이트가 깨질 수 있어요."
+
+#: classes/le-subdir-challenge.php:144
+msgid "Could not verify HTTP challenges. Please check whether HTTP challenge files uploaded to acme-challenge folder is publicly accessible."
+msgstr "HTTP 챌린지를 확인할 수 없어요. acme-challenge 폴더에 올려진 HTTP 챌린지 파일이 공개적으로 접근가능한지 확인하세요."
+
+#: admin/le_admin.php:920
+msgid "Renew your SSL certificate today to avoid your site from showing as insecure. Please support our contribution by upgrading to <strong>Pro</strong> and avail automatic SSL renewal with automatic SSL installation."
+msgstr "보호되지 않은 채로 보여지지 않도록 오늘 SSL 인증서를 새로고쳐 보세요. <strong>프로</strong>로 승급하여 기여를 지원하고 자동 설치로 자동으로 새로고치기를 이용하세요."
+
+#: admin/le_admin.php:532
+msgid "SSL Certificates cannot be issued for localhost and IP address based WordPress site. Please use this on your real domain based WordPress site."
+msgstr "워드프레스 사이트에 기반한 로그인된 컴퓨터, 하위 디렉토리, IP 주소에 대해서는 SSL 인증서를 만들 수 없어요. 실 도메인 기반 워드프레스 사이트에 사용하시기 바래요."
+
+#: admin/le_admin.php:517
+msgid "You do not need to install SSL for each sub-directory site in multisite, Please install SSL for your primary domain and it will cover ALL sub directory sites too."
+msgstr "다중 사이트의 매 하위 디렉토리마다 SSL을 설치할 필요가 없고 모든 하위 디렉토리 사이트를 보호도 할 거에요."
+
+#: admin/le_admin.php:484
+msgid "SSL certificate generated successfully!. <b>WP Encryption</b> just saved you several $$$ by generating free SSL certificate in record time!. Could you please do us a BIG favor & rate us with 5 star review to support further development of this plugin."
+msgstr "SSL 인증서를 성공적으로 만들었어요!. <b>WP 암호화</b>가 기록 시간에 무료 SSL 인증서를 만들어 여러 $$$(을)를 절약했어요!. 이 플러그인의 이후 개발을 지원하는 별 5개 검토를 평가해주는 큰 호의를 베풀어주세요."
+
+#: admin/le_admin.php:284
+msgid "<strong>NOTE:</strong> Since you are willing to install SSL certificate for sub-directory site, SSL certificate will be generated for your primary domain <strong>%s</strong> which will cover your primary domain + All sub-directory sites."
+msgstr "<strong>안내:</strong> 하위 디렉토리 사이트에 SSL 인증서를 설치하려고 생각한다면, SSL 인증서는 주 도메인 <strong>%s</strong>에 대해 만들어지고, 이는 주 도메인 + 모든 하위 디렉토리 사이트를 보호할 거에요."
+
+#: admin/le_admin_pages.php:353
+msgid "If you are still not seeing padlock, We recommend testing your site at whynopadlock.com to determine the exact issue. If you have any image sliders, background images might be loading over http:// url instead of https:// and causing mixed content issues thus making padlock to not show."
+msgstr "여전히 자물쇠가 보이지 않으면, 사이트를 whynopadlock.com에서 시험하여 정확한 문제를 확인하시는 것을 추천해요. 이미지 슬라이더가 있는 경우, 배경 이미지가 https:// 대신 http:// url로 불려와 혼합된 내용 문제의 원인이 되어 자물쇠가 보이지 않을 수도 있어요."
+
+#: admin/le_admin_pages.php:202
+msgid "If you still don't see a green padlock or notice <b>mixed content</b> warning in your browser console - please enable the below option to force HTTPS on all resources of site."
+msgstr "여전히 녹색 자물쇠가 보이지 않거나 <b>혼합된 내용</b> 알림이 브라우저 콘솔에 보인다면 - 아래의 선택지를 활성화하여 사이트의 모든 자원에 HTTPS를 강제하도록 하시기 바래요."
+
+#: admin/le_admin_pages.php:364
+msgid "How to revert back to HTTP in case of force HTTPS failure?"
+msgstr "강제 HTTPS가 실패할 때 어떻게 HTTP로 돌리나요?"
+
+#: admin/le_admin_pages.php:352
+msgid "Images on your site might be loading over http:// protocol, please enable \"Force HTTPS\" feature via WP Encryption page. If you have Elementor page builder installed, please go to Elementor > Tools > Replace URL and replace your http:// site url with https://. Make sure you have SSL certificates installed and browser padlock shows certificate(valid) before forcing these https measures."
+msgstr "사이트에 있는 이미지가 http:// 프로토콜에서 불려올 수 있습니다, WP 암호화 페이지를 통하여 “강제 HTTPS” 기능을 활성화하십시오. 엘리멘터 페이지 빌더가 설치되어 있다면, 엘리멘터 > 도구 > URL 대체로 이동하여 http:// 사이트 url을 https://로 대체하시기 바랍니다. 이러한 https 측정을 수헝하기 전에, SSL 인증서가 설치되었고 브라우저 자물쇠가 인증서가 유효한 것으로 보이는지 확인하십시오."
+
+#: admin/le_admin_pages.php:351
+msgid "Images not loading on HTTPS site"
+msgstr "HTTPS 사이트에 이미지가 불려오지 않음"
+
+#: admin/le_admin_pages.php:398
+msgid "PRO - Automate DNS verification for Godaddy"
+msgstr "프로 - GoDaddy에 대한 자동화된 DNS 검증"
+
+#: admin/le_admin_pages.php:395
+msgid "How to install SSL Certificate on Non-cPanel site via SSH access?"
+msgstr "어떻게 SSL 인증서를 SSH 접근을 통해 cPanel이 아닌 사이트에 설치하나요?"
+
+#: admin/le_admin_pages.php:392
+msgid "How to install SSL Certificate on cPanel?"
+msgstr "어떻게 SSL 인증서를 cPanel에 설치하나요?"
+
+#: admin/le_admin_pages.php:389
+msgid "How to complete domain verification via DNS challenge?"
+msgstr "어떻게 DNS 챌린지를 통해 도메인 검증을 완료하나요?"
+
+#: admin/le_admin_pages.php:133 admin/le_admin_pages.php:388
+msgid "How-To Videos"
+msgstr "사용법 영상"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: wp-letsencrypt.php
+msgid "https://wpencryption.com"
+msgstr "https://wpencryption.com"
+
+#: admin/le_admin.php:923
+msgid "I already renewed"
+msgstr "이미 다시 만들었어요"
+
+#: admin/le_admin.php:922 admin/le_admin.php:1239
+msgid "Upgrade to Pro"
+msgstr "프로로 승격하기"
+
+#: admin/le_admin.php:920
+msgid "Your SSL certificate expires in less than 10 days"
+msgstr "SSL 인증서가 10일 안에 만료되요"
+
+#: classes/le-subdir-challenge.php:196
+msgid "Could not verify DNS records. Please check whether you have added above DNS records perfectly or try again after 5 minutes if you added DNS records just now."
+msgstr "DNS 기록을 검증할 수 없어요. 위의 DNS 기록을 완전히 추가했는지 확인해보시거나 또는 방금 DNS 기록을 추가하였다면 5분 후에 다시 시도해보시기 바래요."
+
+#: admin/le_admin.php:742
+msgid "Your site & admin url will be changed to https:// and all assets, js, css, images will strictly load over https:// to avoid mixed content errors."
+msgstr "사이트와 관리 url이 https://로 변경되고 모든 자산, js, css, 이미지가 통합 내용 오류를 피하기 위해 Https://를 통해 엄격하게 불려와요."
+
+#: admin/le_admin.php:741
+msgid "By Clicking Enable HTTPS"
+msgstr "HTTPS 활성화하기를 누르면 되요"
+
+#: admin/le_admin.php:737
+msgid "Test SSL Installation"
+msgstr "SSL 설치 시험하기"
+
+#: admin/le_admin.php:733
+msgid "Don't have cPanel?"
+msgstr "CPanel이 아니신가요?"
+
+#: admin/le_admin.php:675
+msgid "<b>Congrats! SSL Certificate have been successfully generated.</b>"
+msgstr "<b>축하해요! SSL 인증서가 성공적으로 만들어졌어요.</b>"
+
+#: admin/le_admin.php:484
+msgid "Congratulations!"
+msgstr "축하해요!"
+
+#: admin/le_admin_pages.php:464
+msgid "RESET KEYS AND CERTIFICATE"
+msgstr "재설정 키와 인증서"
+
+#: admin/le_admin_pages.php:462
+msgid "Reset / Delete Keys folder and restart the process"
+msgstr "키 폴더를 재설정 / 삭제하고 처리과정을 재시작"
+
+#: classes/le-trait.php:84
+msgid "Install SSL Certificate"
+msgstr "인증서 설치하기"
+
+#: classes/le-trait.php:83
+msgid "Certificate Generated"
+msgstr "인증서가 만들어졌어요"
+
+#: classes/le-trait.php:82
+msgid "Domain Verification"
+msgstr "도메인 검증"
+
+#: classes/le-trait.php:81
+msgid "Registration"
+msgstr "등록"
+
+#: admin/le_admin.php:793
+msgid "Too many registration attempts from your IP address (%s). Please try after 2-3 hours."
+msgstr "IP 주소(%s)에서 등록 시도를 너무 많이 했어요. 2~3시간 뒤에 해 보시기 바래요."
+
+#: admin/le_admin.php:789
+msgid "You already seem to have certificate generated and stored. Please try downloading certs from <strong>Download SSL Certificates</strong> page and open in a text editor like notepad to check if certificate is not empty."
+msgstr "이미 인증서가 만들어져 저장된 것으로 보여요. <strong>SSL 인증서 내려받기</strong> 페이지에서 인증서를 내려받고 메모장과 같은 문서 편집기에서 열어 인증서가 비어있지 않은지 확인을 시도하시기 바래요."
+
+#: admin/le_admin.php:633
+msgid "PRO - Support for Multisite + Mapped domains"
+msgstr "프로 - 다중 사이트 + 매핑된 도메인을 지원해요"
+
+#: admin/le_admin.php:633
+msgid "Multisite Support"
+msgstr "다중사이트 지원"
+
+#: admin/le_admin.php:532
+msgid "This restriction is not implemented by WP Encryption but its how SSL certificates work."
+msgstr "이 제한은 WP 암호화에 의해 구현되는 것이 아니라 SSL 인증서가 동작하는 방식이에요."
+
+#: admin/le_admin.php:488 admin/le_admin.php:1240 admin/le_admin.php:1349
+msgid "Remind me later"
+msgstr "나중에 알려주세요"
+
+#: admin/le_admin.php:486
+msgid "Rate plugin"
+msgstr "플러그인 평가하기"
+
+#: admin/le_admin.php:306
+msgid "Upgrade to <strong>PRO</strong> version to avail Wildcard SSL support for multisite and ability to install SSL for mapped domains (different domain names)."
+msgstr "다중 사이트를 위한 와일드카드 SSL 지원과 매핑된 도메인(다른 도메인 이름)의 SSL 설치를 가능하게 하기 위해 <strong>프로</strong>판으로 승격하세요."
+
+#. Description of the plugin
+#: wp-letsencrypt.php
+msgid "Secure your WordPress site with free SSL certificate and force HTTPS. Enable HTTPS padlock. Just activating this plugin won't help! - Please run the SSL install form of WP Encryption found on left panel."
+msgstr "SSL 인증서와 HTTPS 강제로 워드프레스 사이트 전체를 안전하게 하세요. 이 플러그인을 활성화하기만 하면 도움이 필요하지 않을거에요! - 왼쪽 구역에서 WP 암호화의 SSL 설치 양식을 실행하시기 바래요."
+
+#: admin/le_admin_pages.php:345
+msgid "How to install SSL for both www & non-www version of my domain?"
+msgstr "www가 있는 도메인과 없는 도메인 모두에 SSL을 설치하는 방법은?"
+
+#: classes/le-core.php:600 classes/le-core.php:630
+msgid "These certificates expires on"
+msgstr "다음은 이 인증서의 유효 기간이에요"
+
+#: classes/le-core.php:600
+msgid "Download the generated SSL certificates from below given links and install it on your cPanel following the video tutorial"
+msgstr "만들어진 SSL 인증서를 아래에 있는 연결에서 내려받고 영상 자습서를 따라 cPanel에 설치하세요"
+
+#: admin/le_admin.php:592
+msgid "PRO"
+msgstr "프로"
+
+#: admin/le_admin.php:368
+msgid "I agree to %sLet's Encrypt%s %sTerms of service%s"
+msgstr "<b>Let's Encrypt</b> %s이용약관%s에 동의해요"
+
+#: classes/le-core.php:609
+msgid "Don't have cPanel hosting?"
+msgstr "CPanel이 아니신가요?"
+
+#: classes/le-core.php:608
+msgid "WP Encryption PRO can automate this entire process in one click including SSL installation on cPanel hosting and auto renewal of certificates every 90 days"
+msgstr "WP 암호화 프로는 cPanel 호스팅에서 SSL을 설치하고 90일마다 자동 새로고침을 포함한 모든 과정을 한 번에 처리해요"
+
+#: classes/le-core.php:604
+msgid "Download CA File"
+msgstr "CA 파일 내려받기"
+
+#: classes/le-core.php:603
+msgid "Download Key File"
+msgstr "키 파일 내려받기"
+
+#: classes/le-core.php:602
+msgid "Download Cert File"
+msgstr "인증서 파일 내려받기"
+
+#: classes/le-core.php:599
+msgid "You are just ONE step away from enabling HTTPS for your WordPress site"
+msgstr "워드프레스 사이트에 HTTPS 활성화가 바로 앞에 있어요"
+
+#: classes/le-core.php:597
+msgid "Congratulations! Your SSL certificates for %s generated using WP Encryption Plugin"
+msgstr "축하해요! SSL 인증서가 WP 암호화 플러그인을 이용해 만들어졌어요"
+
+#: admin/le_admin_pages.php:367
+msgid "Have a different question?"
+msgstr "다른 질문이 있나요?"
+
+#: admin/le_admin_pages.php:362
+msgid "You can run a SSL test by entering your website url in <a href=\"%s\" rel=\"%s\">SSL Labs</a> site."
+msgstr "<a href=\"%s\" rel=\"%s\">SSL 연구소</a> 사이트에서 웹사이트 url을 입력해야 SSL 시험을 실행할 수 있어요."
+
+#: admin/le_admin_pages.php:361
+msgid "How to test if my SSL installation is good?"
+msgstr "SSL이 잘 설치됐는지 어떻게 시험해보나요?"
+
+#: admin/le_admin_pages.php:358
+msgid "How do I install Wildcard SSL?"
+msgstr "어떻게 와일드카드 SSL을 설치하나요?"
+
+#: admin/le_admin_pages.php:356
+msgid "Your SSL certificate will be auto renewed if you have <b>WP Encryption PRO</b> plugin purchased (SSL certs will be auto renewed in background just before the expiry date). If you have free version of plugin installed, You can click on STEP 1 in WP Encryption main page & use the same process of \"Generate SSL Certificate\" to get new certs."
+msgstr "<b>WP 암호화 프로</b> 플러그인을 구매(SSL 인증서가 유효기간 바로 직전에 배경작업으로 자동으로 갱신되요)하면 SSL 인증서가 자동으로 새로워져요. 플러그인의 무료판이 설치되어있으면, “무료 SSL 만들기”와 같은 처리과정을 이용하여 새로운 인증서를 얻을 수 있어요."
+
+#: admin/le_admin_pages.php:355
+msgid "How do I renew my SSL certificate before expiry date?"
+msgstr "만료일 이전에 SSL 인증서를 어떻게 새로 고치나요?"
+
+#: admin/le_admin_pages.php:343
+msgid "Installing SSL certificate is a server side process and not as simple as installing a ready widget and using it instantly. You will have to follow some simple steps to install SSL for your WordPress site. Our plugin acts like a tool to generate and install SSL for your WordPress site. On FREE version of plugin - You should manually go through the SSL certificate installation process following the simple video tutorial. Whereas, the SSL certificates are easily generated by our plugin by running a simple SSL generation form."
+msgstr "SSL 인증서 설치는 서버측 과정이고 준비된 위젯을 설치하고 즉시 이용하는 것처럼 단순하지 않아요. 단순한 단계 몇 단계를 따라 워드프레스 사이트에 SSL을 설치할 수 있어요. 이 플러그인은 워드프레스 사이트에 SSL을 만들고 설치하는 도구처럼 동작해요. 플러그인의 무료 판 - 다음의 영상 자습서를 따라 SSL 인증서 설치 과정을 직접 해야 해요. 반면에, 우리 플러그인에서는 단순한 SSL 만들기 양식을 실행하여 SSL 인증서를 쉽게 만들 수 있어요."
+
+#: admin/le_admin_pages.php:342
+msgid "Does installing the plugin will instantly turn my site https?"
+msgstr "플러그인을 설치가 사이트를 즉시 https로 만드나요?"
+
+#: admin/le_admin.php:766
+msgid "ENABLE HTTPS NOW"
+msgstr "지금 HTTPS 활성화하기"
+
+#: admin/le_admin.php:753
+msgid "<b>Note:</b> Use below \"Enable HTTPS\" button ONLY after SSL certificate is successfully installed on your cPanel"
+msgstr "<b>안내:</b> 아래의 “HTTPS 활성화하기”단추는 SSL 인증서가 Use cPanel에서 성공적으로 설치된 후에만 이용하세요"
+
+#: admin/le_admin.php:623 admin/le_admin.php:629 admin/le_admin.php:635
+msgid "Available"
+msgstr "사용 가능"
+
+#: admin/le_admin.php:622 admin/le_admin.php:628 admin/le_admin.php:634
+msgid "Not Available"
+msgstr "이용할 수 없네요"
+
+#: admin/le_admin.php:627
+msgid "PRO - Your domain DNS must be managed by cPanel or Godaddy for full automation"
+msgstr "프로 - 완전 자동화를 위해서는 도메인을 DNS는 cPanel 또는 Godaddy로 관리되어야만 해요"
+
+#: admin/le_admin.php:627
+msgid "Wildcard SSL"
+msgstr "와일드 카드 SSL"
+
+#: admin/le_admin.php:609
+msgid "PRO - We offer one time free manual support for non-cPanel based sites"
+msgstr "프로 - cPanel 기반이 아닌 사이트에 한 번의 무료 직접 지원이 있어요"
+
+#: admin/le_admin.php:603
+msgid "In case of HTTP verification fail / not possible"
+msgstr "HTTP 검증이 실패하거나 가능하지 않은 경우"
+
+#: admin/le_admin.php:603
+msgid "DNS Verification"
+msgstr "DNS 검증"
+
+#: admin/le_admin.php:597
+msgid "HTTP Verification"
+msgstr "HTTP 검증"
+
+#: admin/le_admin.php:591
+msgid "FREE"
+msgstr "무료"
+
+#: admin/le_admin.php:559
+msgid "Manual"
+msgstr "직접하기"
+
+#: admin/le_admin.php:558
+msgid "Automatic"
+msgstr "자동"
+
+#: admin/le_admin.php:649
+msgid "UPGRADE TO PRO"
+msgstr "프로로 승격하기"
+
+#: admin/le_handlers.php:45
+msgid "Please input valid email address"
+msgstr "유효한 이메일 주소를 입력 주시기 바래요"
+
+#: admin/le_admin.php:451
+msgid "Show/hide full response"
+msgstr "전체 응답 보이기/숨기기"
+
+#: admin/le_admin.php:641
+msgid "COMPARE FREE & PRO VERSION"
+msgstr "무료 판과 프로 판을 비교해보세요"
+
+#: admin/le_admin_pages.php:92 admin/le_admin_pages.php:192
+msgid "Force HTTPS"
+msgstr "HTTPS 강제하기"
+
+#: admin/le_admin.php:335
+msgid "Before enabling this - please make sure both www & non-www version of your domain works!. Add a CNAME with name 'www' pointing to your non-www domain in your domain DNS zone editor"
+msgstr "활성화하기 전에 - 도메인이 www가 있을 때와 없을 때 모두 동작하는 확인하세요. 도메인 DNS 영역 편집기에서 www가 아닌 도메인을 지시하는 CNAME에 ‘www’를 추가하세요"
+
+#: classes/le-forcessl.php:157
+msgid "Reverted back to HTTP. Access your site now with http:// protocol."
+msgstr "HTTP로 되돌려졌어요. http:// 프로토콜로 사이트에 접근해요."
+
+#: classes/le-core.php:441 classes/le-trait.php:163
+msgid "ERROR"
+msgstr "오류"
+
+#: classes/le-core.php:324
+msgid "SSL Certificate generated successfully"
+msgstr "SSL 인증서가 성공적으로 만들어졌어요"
+
+#: classes/le-core.php:310
+msgid "Getting SSL certificates"
+msgstr "SSL 인증서 받기"
+
+#: classes/le-core.php:305
+msgid "Finalizing the order"
+msgstr "주문을 완료하고 있어요"
+
+#: admin/le_admin.php:335
+msgid "Generate SSL Certificate for both www & non-www version of domain"
+msgstr "도메인의 www 있는 판과 www 없는 판 모두에 SSL 인증서 만들기"
+
+#: admin/le_admin.php:461 admin/le_admin_pages.php:449
+msgid "Full response will be shown here"
+msgstr "전체 응답이 여기에 표시되요"
+
+#: admin/le_admin.php:459
+msgid "Response Log"
+msgstr "응답 기록"
+
+#: admin/le_admin_pages.php:430
+msgid "You don't have any SSL certificates generated yet! Please %sgenerate your single/wildcard SSL certificate%s first before you can download it here."
+msgstr "만들어진 SSL 인증서를 아직 가지고 있지 않으시네요! 단일/와일드카드 SSL을 먼저 만들어야 여기에서 내려받을 수 있어요."
+
+#: admin/le_admin_pages.php:238
+msgid "Save"
+msgstr "저장하기"
+
+#: admin/le_admin_pages.php:141 classes/le-trait.php:138
+msgid "FAQ"
+msgstr "자주하는 질문"
+
+#: admin/le_admin.php:388
+msgid "Generate SSL Certificate"
+msgstr "SSL 인증서 만들기"
+
+#: admin/le_admin.php:319
+msgid "Enter your email address"
+msgstr "이메일 주소를 입력하세요"
+
+#. Plugin Name of the plugin
+#: wp-letsencrypt.php
+msgid "WP Encryption - One Click SSL & Force HTTPS"
+msgstr "WP 암호화 - 한 번에 SSL & HTTPS 강제"
